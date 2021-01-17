@@ -20,32 +20,32 @@ My name is Eric Ma, and I am a freshman at UCLA studying...some of the time I gu
 #### Vincent Fong
 Hello! My name is Vincent Fong. I’m currently a freshman at Cornell University, and a graduate from Stuyvesant High School. In my four years of Science Olympiad, I varied between builds and inquiry events; my favorite events were Codebusters and Sounds of Music. In my spare time, you can catch me speedrunning Minecraft and doing quizzes on Sporcle.
 
-<img align="left" width="120" height="120" style="margin: 10px 10px 10px 10px" src="/BirdSO/pfps/achang.png">
+<img align="left" width="120" height="120" style="margin: 10px 10px 10px 10px" src="/BirdSO/ESPics/AllenChang.png">
 
 #### Allen Chang
 Hi, I'm Allen Chang, a junior from West Windsor-Plainsboro High School North ('22). I mainly participate in build events, but I also enjoy events such as Sounds of Music, Cybersecurity, and my recent addiction, Codebusters. My hobbies include programming and indoor free flight, and my favorite mechanical pencil is the Pentel Orenz Nero.
 
-<img align="right" width="120" height="120" style="margin: 10px 10px 10px 10px" src="/BirdSO/pfps/jchang.png">
+<img align="right" width="120" height="120" style="margin: 10px 10px 10px 10px" src="/BirdSO/ESPics/JasonChang.png">
 
 #### Jason Chang
 Hey! I'm Jason Chang, a junior from West Windsor-Plainsboro High School North in Plainsboro, New Jersey ('22). Since 6th grade, I have focused on engineering events such as Gravity Vehicle and Boomilever, but also participate in events such as Write It Do It. I'm a mechanical pencil and 3D printing enthusiast.
 
-<img align="left" width="120" height="120" style="margin: 10px 10px 10px 10px" src="/BirdSO/pfps/czhu.png">
+<img align="left" width="120" height="120" style="margin: 10px 10px 10px 10px" src="/BirdSO/ESPics/CrystalZhu.jpg">
 
 #### Crystal Zhu
 Hey there! I'm Crystal Zhu, a senior at Mission San Jose High School in Fremont, California ('21). I joined Science Olympiad in my junior year. I mainly focus on inquiry events, and my favorite event is Codebusters, but I also enjoy Ornithology, as I am a huge bird nerd. In my free time, I love birdwatching and drawing.
 
-<img align="right" width="120" height="120" style="margin: 10px 10px 10px 10px" src="/BirdSO/pfps/akashyap.png">
+<img align="right" width="120" height="120" style="margin: 10px 10px 10px 10px" src="/BirdSO/ESPics/AyushiKashyap.jpg">
 
 #### Ayushi Kashyap
 Hello! I am Ayushi Kashyap, a sophomore from Mission San Jose High School ('23) in Fremont, California. I have done Science Olympiad since 5th grade and my favorite events include Fossils, Ornithology, and Invasive Species. In my free time, I enjoy collecting expensive stationery and saying "as you should," as I should.
 
-<img align="left" width="120" height="120" style="margin: 10px 10px 10px 10px" src="/BirdSO/pfps/azhang.png">
+<img align="left" width="120" height="120" style="margin: 10px 10px 10px 10px" src="/BirdSO/ESPics/AndrewZhang.png">
 
 #### Andrew Zhang
 Hello my name is Andrew Zhang! I'm a senior (c/o 21) and captain of Syosset High School in New York and have competed since 7th grade. My favorites events are Astronomy, Codebusters, and Fermi Questions but I've also enjoyed participating in Fossils, Material Science, and Invasive Species. In my free time I spend too long playing cryptograms.
 
-<img align="right" width="120" height="120" style="margin: 10px 10px 10px 10px" src="/BirdSO/pfps/jgianan.gif">
+<img align="right" width="120" height="120" style="margin: 10px 10px 10px 10px" src="BirdSO/ESPics/JacobGianan.jpg">
 
 #### Jacob Gianan
 Hi, I'm Jacob Gianan, a senior co-captain from Camas High School in Camas, Washington ('21). I have competed in Science Olympiad since 5th grade and my favorite events are Wright Stuff and Helicopters. In my free time I enjoy building 3d printers, indoor free flight, and listening to Blackpink.
