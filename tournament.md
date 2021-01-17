@@ -38,7 +38,7 @@ Registration will open Tuesday, December 22nd! The tentative cost will be $50/te
 All trial event rules will be released by mid-January.
  
 ### Awards
-The awards ceremony will be held on **March 13th, 2021** via a Youtube Livestream. Depending on team participation, medals will be given to between top 5 and top 10 teams, with trophies given to the top 3 schools. Medals and trophies will be mailed to each school after the tournament.
+The awards ceremony will be held on **March 13th, 2021** via a Youtube Livestream. Depending on team participation, medals and trophies will be given to approximately 10% of the number of teams competing. Medals and trophies will be mailed to each school after the tournament.
 
 ### Sponsor Us!
 We are looking for sponsors to help support our competition! If you are interested, contact us at [birdscioly@gmail.com](mailto:birdscioly@gmail.com). Thank you!
