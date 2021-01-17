@@ -10,7 +10,7 @@ layout: default
 <!--[BirdSO Registration](http://example.com/)-->
 
 <!--Our **Tournament Updates** document may be found [here](https://docs.google.com/document/d/1-Xh9DhxO06UUcMBV3x1cKrkRnLtZBbwXNCIDazhQF_k/edit?usp=sharing).-->
-The BirdSO **Event Slate** (last modified 12/17/20), may be found [here](https://docs.google.com/document/d/1144EX1clbleQ7bKygXtEiaG2rChG87gyCKgX7BO5kuc).
+The BirdSO **Event Slate** may be found [here](https://docs.google.com/document/d/1144EX1clbleQ7bKygXtEiaG2rChG87gyCKgX7BO5kuc).
 
 The BirdSO **Events and Modifications** document may be found [here for B](https://docs.google.com/document/d/1QqWLnMG5WXVB0oxa3tN7P9bjPnjYXhhZ2y7HQzpXgsg/edit
 ) and [here for C](https://docs.google.com/document/d/1Hop9k_SV6-a5Tqf-mxvSxoffQOERmXBgHzofwHkL2Zk/edit?usp=sharing).
@@ -38,7 +38,7 @@ Registration will open Tuesday, December 22nd! The tentative cost will be $50/te
 All trial event rules will be released by mid-January.
  
 ### Awards
-The awards ceremony will be held on **March 13th, 2021** via a Youtube Livestream. Depending on team participation, medals and trophies will be given to approximately 10% of the number of teams competing. Medals and trophies will be mailed to each school after the tournament.
+The awards ceremony will be held on **March 20th, 2021** via a Youtube Livestream. Depending on team participation, medals and trophies will be given to approximately 10% of the number of teams competing. Medals and trophies will be mailed to each school after the tournament.
 
 ### Sponsor Us!
 We are looking for sponsors to help support our competition! If you are interested, contact us at [birdscioly@gmail.com](mailto:birdscioly@gmail.com). Thank you!
