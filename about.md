@@ -14,7 +14,6 @@ The BirdSO Board consists of both alumni and high school students from across th
 
 #### Eric Ma 
 My name is Eric Ma, and I am a freshman at UCLA studying...some of the time I guess? I competed in Science Olympiad with Mission San Jose High School for four years in all sorts of events, although my favorites are probably Protein Modeling and Mission Possible. In my free time, you can catch me playing some instrument, taking photos of the sidewalk, and napping to avoid my homework.
-
   
 <img align="right" width="120" height="120" style="margin: 10px 10px 10px 10px" src="/BirdSO/pfps/vfong.png">
 
@@ -30,7 +29,6 @@ Hi, I'm Allen Chang, a junior from West Windsor-Plainsboro High School North ('2
 
 #### Jason Chang
 Hey! I'm Jason Chang, a junior from West Windsor-Plainsboro High School North in Plainsboro, New Jersey ('22). Since 6th grade, I have focused on engineering events such as Gravity Vehicle and Boomilever, but also participate in events such as Write It Do It. I'm a mechanical pencil and 3D printing enthusiast.
-
 
 <img align="left" width="120" height="120" style="margin: 10px 10px 10px 10px" src="/BirdSO/pfps/czhu.png">
 
