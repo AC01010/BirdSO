@@ -10,7 +10,7 @@ Founded in 2020, BirdSO is a Division B and C miniSO Invitational hosted by stud
 ### The Team
 The BirdSO Board consists of both alumni and high school students from across the nation - from Cornell University and UCLA to WW-P High School North and Mission San Jose High School.
 
-<img align="left" width="120" height="120" style="margin: 10px 10px 10px 10px" src="/BirdSO/pfps/ema.png">
+<img align="left" width="120" height="120" style="margin: 10px 10px 10px 10px" src="/BirdSO/ESPics/EricMa.png">
 
 #### Eric Ma 
 My name is Eric Ma, and I am a freshman at UCLA studying...some of the time I guess? I competed in Science Olympiad with Mission San Jose High School for four years in all sorts of events, although my favorites are probably Protein Modeling and Mission Possible. In my free time, you can catch me playing some instrument, taking photos of the sidewalk, and napping to avoid my homework.
@@ -60,17 +60,12 @@ Hi! I’m Caleb Chiang, Mission San Jose High School Science Olympiad’s senior
 #### Eric Yang
 Hello there! I'm Eric Yang, a junior from WW-P North ('22). I have focused on mathematical/computer science inquiry events, Forensics (and its Div. B equivalent Crime Busters), and chemistry events in general since 6th grade. I enjoy a variety of different games in my leisure time, and also enjoy coding various different projects.
 
-<img align="left" width="120" height="120" style="margin: 10px 10px 10px 10px" src="/BirdSO/pfps/gliu.png">
+<img align="left" width="120" height="120" style="margin: 10px 10px 10px 10px" src="/BirdSO/ESPics/GwennieLiu.jpg">
 
 #### Gwennie Liu
 Heyo! My name is Gwennie Liu and I'm a junior at Torrey Pines High School in San Diego, California, where I am co-president of the Science Olympiad team. This is my seventh year participating in Science Olympiad; my favorite events include Astronomy and Rocks and Minerals. In my free time, I enjoy binging dramas and knitting.
 
-<img align="right" width="120" height="120" style="margin: 10px 10px 10px 10px" src="/BirdSO/pfps/rliu.png">
+<img align="right" width="120" height="120" style="margin: 10px 10px 10px 10px" src="/BirdSO/ESPics/RuthLu.png">
 
 #### Ruth Lu
 Hi! I’m Ruth Lu from American High School (‘22) in California. I’ve been in SciOly since middle school; I love Sounds of Music and kind of like Disease Detectives. I draw, birdwatch, watch youtube, browse memes, and code in my free time.
-
-<img align="left" width="120" height="120" style="margin: 10px 10px 10px 10px" src="/BirdSO/pfps/smologu.png">
-
-#### Saanvi Mologu
-Hey! I’m Saanvi Molugu, a junior from West Windsor-Plainsboro High School North (22’). I joined in my sophomore year and I mainly focus on biology-based events, but one of my favorite events is Protein Modeling. You can find me spending my free time procrastinating on school work, but I also like to draw occasionally.
