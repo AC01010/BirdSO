@@ -50,7 +50,7 @@ Hello my name is Andrew Zhang! I'm a senior (c/o 21) and captain of Syosset High
 #### Jacob Gianan
 Hi, I'm Jacob Gianan, a senior co-captain from Camas High School in Camas, Washington ('21). I have competed in Science Olympiad since 5th grade and my favorite events are Wright Stuff and Helicopters. In my free time I enjoy building 3d printers, indoor free flight, and listening to Blackpink.
 
-<img align="left" width="120" height="120" style="margin: 10px 10px 10px 10px" src="/BirdSO/ESPics/CalebChiang.jpg">
+<img align="left" width="120" height="120" style="margin: 10px 10px 10px 10px" src="/BirdSO/ESPics/CalebChiang.png">
 
 #### Caleb Chiang
 Hi! I’m Caleb Chiang, Mission San Jose High School Science Olympiad’s senior captain. I’ve competed in Science Olympiad since 5th grade; my favorite events are Fermi Questions and Codebusters. Some other events I’ve enjoyed are Sounds of Music and Invasive Species. When I’m not working on Science Olympiad, I’m probably solving Rubik’s Cubes, doing math, or playing clarinet or saxophone.
