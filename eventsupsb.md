@@ -47,7 +47,7 @@ Hi! I'm William Lee, a captain at Mason. I was introduced to Scioly in my freshm
 <img align="left" width="160" height="160" style="margin: 10px 10px 10px 10px" src="/BirdSO/ESPics/AndrewZhang.png">
 
 <h4>Andrew Zhang - Event Supervisor - Bird ID: Barn Owl</h4> 
-Hello, my name is Andrew Zhang! I'm a senior (c/o 21) and captain of Syosset High School in New York and have competed since 7th grade. My favorites events are Astronomy, Codebusters, and Fermi Questions but I've also enjoyed participating in Fossils, Matel Science, and Invasive Species. In my free time I spend long playing cryptograms.
+Hello, my name is Andrew Zhang! I'm a senior (c/o 21) and captain of Syosset High School in New York and have competed since 7th grade. My favorites events are Astronomy, Codebusters, and Fermi Questions but I've also enjoyed participating in Fossils, Material Science, and Invasive Species. In my free time I spend long playing cryptograms.
 
 <br>
 
