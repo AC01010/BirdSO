@@ -21,7 +21,7 @@ Our event supervisors are chosen for their experience in their respective events
 <!--<img align="left" width="120" height="120" style="margin: 10px 10px 10px 10px" src="/BirdSO/ESPics/EricMa.png">-->
 
 <h4>April Cheng</h4> 
-
+<hr>
 <img align="right" width="120" height="120" style="margin: 10px 10px 10px 10px" src="/BirdSO/ESPics/JeffXie.jpg">
 
 <h4>Jeff Xie</h4> 
@@ -35,7 +35,7 @@ I am currently a graduate student at University of Houston-Clear Lake pursuing a
 
 <h4>Roland Hu</h4> 
 Hello! I'm Roland and I'm a Palo Alto Scioly alumnus and 1st Yr. studying biochemistry at the University of Washington. Chem lab has been my favorite (and possibly only event) since joining scioly and chemistry itself has been an integral part of my high school years. Whenever i'm not pretending to know chemistry i'm usually playing spikeball or pretending to know python. (:
-
+<hr>
 <!--<img align="right" width="120" height="120" style="margin: 10px 10px 10px 10px" src="/BirdSO/ESPics/JeffXie.jpg">-->
 
 <h4>Dan Ni</h4> 
@@ -49,14 +49,13 @@ Hello! I'm Roland and I'm a Palo Alto Scioly alumnus and 1st Yr. studying bioche
 Currently I am an engineer at Intel Corporation doing research on semiconductor manufacturing and integrated circuits. Trained as Civil and Mechanical Engineer with Ph.D. from University of Michigan, I volunteered over the past five years for Camas High School, Washington. I enjoyed helping out on physical and earth science events and served as proctor/event supervisors at Invitationals and regional competitions. 
 </details>
 
-
 <details>
 <summary>Codebusters</summary>
 <img align="left" width="120" height="120" style="margin: 10px 10px 10px 10px" src="/BirdSO/ESPics/AndrewZhang.png">
 
 <h4>Andrew Zhang</h4> 
 Hello, my name is Andrew Zhang! I'm a senior (c/o 21) and captain of Syosset High School in New York and have competed since 7th grade. My favorites events are Astronomy, Codebusters, and Fermi Questions but I've also enjoyed participating in Fossils, Material Science, and Invasive Species. In my free time I spend too long playing cryptograms.
-
+<hr>
 <img align="right" width="120" height="120" style="margin: 10px 10px 10px 10px" src="/BirdSO/ESPics/WilliamLee.jpg">
 
 <h4>William Lee</h4> 
@@ -69,7 +68,7 @@ Hi! I'm William Lee, a captain at Mason. I was introduced to Scioly in my freshm
 
 <h4>Allen Chang</h4> 
 Hi, I'm Allen Chang, a junior from West Windsor-Plainsboro High School North ('22). I mainly participate in build events, but I also enjoy events such as Sounds of Music, Codebusters, and Cybersecurity. My hobbies include programming and indoor free flight, and my favorite mechanical pencil is the Pentel Orenz Nero.
-
+<hr>
 <img align="right" width="120" height="120" style="margin: 10px 10px 10px 10px" src="/BirdSO/ESPics/EricMa.png">
 
 <h4>Eric Ma</h4> 
@@ -82,7 +81,7 @@ My name is Eric Ma, and I am a freshman at UCLA studying studying electrical eng
 
 <h4>Sehej Bindra</h4> 
 Hi! My name is Sehej Bindra and I study at UC Berkeley. My relevant experiences include competing in biology events for WWPN and serving as the 2019 WWPN Ornithology test co-grader. Outside of Science Olympiad, you can catch me outside doing stuff.
-
+<hr>
 <!--<img align="right" width="120" height="120" style="margin: 10px 10px 10px 10px" src="/BirdSO/ESPics/JeffXie.jpg">-->
 
 <h4>Yash Gupta</h4> 
@@ -113,12 +112,12 @@ I'm currently a PhD student in the joint bioengineering program between UC Berke
 <!--<img align="left" width="120" height="120" style="margin: 10px 10px 10px 10px" src="/BirdSO/ESPics/EricMa.png">-->
 
 <h4>Vivek Vajipey</h4> 
-
+<hr>
 <img align="right" width="120" height="120" style="margin: 10px 10px 10px 10px" src="/BirdSO/ESPics/YuchenLi.jpg">
 
 <h4>Yuchen Li</h4> 
 Hi! I'm Yuchen, and I'm a current junior at Tesla STEM High School. I've competed in Scioly ever since sixth grade, and I've mostly stayed loyal to the earth science events throughout these years, so I'm excited to be writing for Dynamic Planet! My all-time favorite event to study for is Earth Science Prediction.
-
+<hr>
 <!--<img align="right" width="120" height="120" style="margin: 10px 10px 10px 10px" src="/BirdSO/ESPics/JeffXie.jpg">-->
 
 <h4>Chloe Cheng</h4> 
@@ -139,7 +138,7 @@ Hey there! I competed in Science Olympiad at Canyon Crest Academy back in the da
 
 <h4>Zoe Goldblum</h4> 
 Hi everyone! My name is Zoe Goldblum and I am a freshman at the Pennsylvania State University studying Immunology and Infectious Disease. I've been involved with Science Olympiad since 2014, and have competed on both the Good Hope Middle School and Cumberland Valley High School teams. I've written tests, mainly bio and chem events, for multiple invitationals, and am one of the Co-Tournament Directors for the SOAPS invitational. 
-
+<hr>
 <!--<img align="right" width="120" height="120" style="margin: 10px 10px 10px 10px" src="/BirdSO/ESPics/JeffXie.jpg">-->
 
 <h4>Camille Zhang</h4> 
@@ -151,7 +150,7 @@ Hi everyone! My name is Zoe Goldblum and I am a freshman at the Pennsylvania Sta
 
 <h4>Cruz Soto</h4> 
 Hello! I'm Cruz, your self-proclaimed Fossils extraordinaire and first-year at MIT. I competed as part of Edison High School in Fresno, CA. where I especially enjoyed doing Astronomy, Fossils, and Ornithology. While not busy with school, rocket team, managing YosemiteSO, or helping at various invitational events, I am rewatching Clone Wars or plotting a Socialist takeover of the United States. I wish you the best of luck in the competition!
-
+<hr>
 <!--<img align="right" width="120" height="120" style="margin: 10px 10px 10px 10px" src="/BirdSO/ESPics/JeffXie.jpg">-->
 
 <h4>Jonathan Chen</h4> 
@@ -162,8 +161,6 @@ Hello! I'm Cruz, your self-proclaimed Fossils extraordinaire and first-year at M
 <!--<img align="left" width="120" height="120" style="margin: 10px 10px 10px 10px" src="/BirdSO/ESPics/EricMa.png">-->
 
 <h4>Aidan York</h4> 
-
-<img align="right" width="120" height="120" style="margin: 10px 10px 10px 10px" src="/BirdSO/ESPics/JeffXie.jpg">
 </details>
 
 <details>
@@ -180,7 +177,7 @@ Hi, I'm Jacob Gianan, a senior co-captain from Cams High School in Camas, Washin
 
 <h4>Robert Lee</h4> 
 I am a first year undergraduate student at UCLA pursuing a major in Aerospace Engineering. I've competed in Science Olympiad for 7 years, creating timeless memories and making many lifelong friends along the way. I'm excited to give back to this community that has given me so much.
-
+<hr>
 <img align="right" width="120" height="120" style="margin: 10px 10px 10px 10px" src="/BirdSO/ESPics/JessicaShah.jpg">
 
 <h4>Jessica Shah</h4> 
@@ -193,7 +190,7 @@ Hi! I'm Jessica Shah, a sophomore at Duke University and the Events Chair of Duk
 
 <h4>Sophia Jang</h4> 
 Hi! I’m Sophia Jang, a first year student at the University of Virginia and former captain of Syosset High School (New York). I’ve been involved in Science Olympiad since 2013, and competed for Syosset Scioly for four years, mostly specializing in biology, ID, and inquiry events. My favorite events were Microbe Mission and some ID. In my free time, I like sleeping, swimming, playing music, and playing with my cat.
-
+<hr>
 <!--<img align="right" width="120" height="120" style="margin: 10px 10px 10px 10px" src="/BirdSO/ESPics/JeffXie.jpg">-->
 
 <h4>Bhavna Trehan</h4> 
@@ -205,7 +202,7 @@ Hi! I’m Sophia Jang, a first year student at the University of Virginia and fo
 
 <h4>Megan Luo</h4> 
 Hello! My name is Megan. I’m a freshman at UC Berkeley studying molecular and cell biology and a graduate from Sunny Hills HS. I’ve competed for 7 years and bounced around all sorts of events, but my favorites were probably Forensics, Experimental Design, and Protein Modeling. When I’m not sleeping, you can catch me reading questionable articles on the internet whilst eating food.
-
+<hr>
 <img align="right" width="120" height="120" style="margin: 10px 10px 10px 10px" src="/BirdSO/ESPics/EricMa.png">
 
 <h4>Eric Ma</h4> 
@@ -218,7 +215,7 @@ My name is Eric Ma, and I am a freshman at UCLA studying studying electrical eng
 
 <h4>Caleb Chiang</h4> 
 Hi! I’m Caleb Chiang, Mission San Jose High School Science Olympiad’s senior captain. I’ve competed in Science Olympiad since 5th grade; my favorite events are Fermi Questions and Codebusters. Some other events I’ve enjoyed are Sounds of Music and Invasive Species. When I’m not working on Science Olympiad, I’m probably solving Rubik’s Cubes, doing math, or playing clarinet or saxophone.
-
+<hr>
 <img align="right" width="120" height="120" style="margin: 10px 10px 10px 10px" src="/BirdSO/ESPics/RuthLu.png">
 
 <h4>Ruth Lu</h4> 
@@ -238,7 +235,7 @@ Hi everyone! I'm Ruth, a high school junior currently attending American High Sc
 
 <h4>Jason Chang</h4> 
 Hey! I'm Jason Chang, a junior from West Windsor-Plainsboro High School North in Plainsboro, New Jersey ('22). Since 6th grade, I have focused on engineering events such as Gravity Vehicle and Boomilever, but also participate in events such as Write It Do It. I'm a mechanical pencil and 3D printing enthusiast.
-
+<hr>
 <!--<img align="right" width="120" height="120" style="margin: 10px 10px 10px 10px" src="/BirdSO/ESPics/JeffXie.jpg">-->
 
 <h4>Miyu Yamane</h4> 
@@ -250,12 +247,12 @@ Hey! I'm Jason Chang, a junior from West Windsor-Plainsboro High School North in
 
 <h4>Andrew Zhang</h4> 
 Hello, my name is Andrew Zhang! I'm a senior (c/o 21) and captain of Syosset High School in New York and have competed since 7th grade. My favorites events are Astronomy, Codebusters, and Fermi Questions but I've also enjoyed participating in Fossils, Material Science, and Invasive Species. In my free time I spend too long playing cryptograms.
-
+<hr>
 <img align="right" width="120" height="120" style="margin: 10px 10px 10px 10px" src="/BirdSO/ESPics/CalebChiang.png">
 
 <h4>Caleb Chiang</h4> 
 Hi! I’m Caleb Chiang, Mission San Jose High School Science Olympiad’s senior captain. I’ve competed in Science Olympiad since 5th grade; my favorite events are Fermi Questions and Codebusters. Some other events I’ve enjoyed are Sounds of Music and Invasive Species. When I’m not working on Science Olympiad, I’m probably solving Rubik’s Cubes, doing math, or playing clarinet or saxophone.
-
+<hr>
 <img align="left" width="120" height="120" style="margin: 10px 10px 10px 10px" src="/BirdSO/ESPics/RobertLee.jpg">
 
 <h4>Robert Lee</h4> 
