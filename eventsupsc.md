@@ -139,7 +139,7 @@ Hi! I'm Yuchen, and I'm a current junior at Tesla STEM High School. I've compete
 <img align="left" width="160" height="160" style="margin: 10px 10px 10px 10px" src="/BirdSO/ESPics/ChloeCheng.jpeg">
 
 <h4>Chloe Cheng - Event Supervisor - Bird ID: Black Phoebe</h4> 
-Chloe is a senior at Venice High who enjoys roaming sketchbook pages and scrubby hills (both of which often involve birds). In the past three years of Science Olympiad she has competed in primarily Earth science events as well as Sounds of Music and Ornithology. This year she began writing for invitationals with a squad informally known in the places as the “goons.”
+Hello! I'm Chloe, a senior at Venice High. In the past three years I've done primarily Earth science events as well as Sounds of Music and Ornithology, and recently began writing for invitationals with a squad informally known in the places as the “goons.” I also enjoy roaming sketchbook pages and the scrubby hills nearby, both of which happen to involve birds.
 
 <br>
 
