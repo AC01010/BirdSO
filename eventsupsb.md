@@ -65,9 +65,10 @@ Hey guys, I'm Claire and I am very excited to be writing your Crime Busters test
 <br>
 
 <h3>Density Lab</h3>
-<!--<img align="left" width="160" height="160" style="margin: 10px 10px 10px 10px" src="/BirdSO/ESPics/AndrewZhang.png">-->
+<img align="left" width="160" height="160" style="margin: 10px 10px 10px 10px" src="/BirdSO/ESPics/AntonioVelasco.png">
 
-<h4>Antonio Velasco - Event Supervisor</h4> 
+<h4>Antonio Velasco - Event Supervisor - Bird ID: Eagle</h4> 
+Aloha! My name is Antonio Velasco and I am a junior at Pearl City High School down in Hawaii where I co-captain the team. I've been doing Science Olympiad for 5 years now and have done a lot of physics and chemistry. Back in 2018, I actually placed 6th for this event, so I'm very excited to be writing for this event for a third time!
 
 <br>
 
