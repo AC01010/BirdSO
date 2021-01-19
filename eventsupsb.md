@@ -30,9 +30,10 @@ I'm a second-year Electrical Engineering major at the University of California, 
 
 <br>
 
-<!--<img align="right" width="160" height="160" style="margin: 10px 10px 10px 10px" src="/BirdSO/ESPics/JeffXie.jpg">-->
+<img align="right" width="160" height="160" style="margin: 10px 10px 10px 10px" src="/BirdSO/ESPics/PaulBartolemea.png">
 
-<h4>Paul Bartolemea - Event Supervisor</h4> 
+<h4>Paul Bartolemea - Event Supervisor - Bird ID: Larus smithsonianus</h4> 
+Hi, I'm Paul. After four years of SO, I graduated from Kellenberg Memorial High School in May 2020. I'm currently studying Aerospace Engineering at Embry-Riddle in Daytona Beach, Florida. I have dozens of hobbies, most of which are science-related. I'm an Extra-class amateur radio operator, love tinkering with electronics, and generally take a practical approach to everything. I also enjoy cycling, boating, and gaming for other recreation.
 
 <br>
 
