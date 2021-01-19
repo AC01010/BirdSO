@@ -17,3 +17,7 @@ layout: default
 <b>December 21st, 2020:</b> Registration starts on December 22nd, 2020!
 
 <b>December 22nd, 2020:</b> Registration starts today at 3 PM PT / 6 PM ET! We are hosting 100 teams in both divisions - with a 6 team per school cap for B and 4 for C.        
+
+<b>January 5th, 2021</b> We've announced our last two trial events: Science Quiz Bowl (B/C) and Rocks and Minerals (B/C)!
+
+<b>January 16th, 2021</b> Event supervisors and test writers have been contacted. To all volunteers - thank you for volunteering your time to make this competition possible!
