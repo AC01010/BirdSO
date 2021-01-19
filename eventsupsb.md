@@ -163,7 +163,7 @@ Hello! My name is Martin Nguyen and I am a sophomore studying computer science a
 <img align="left" width="160" height="160" style="margin: 10px 10px 10px 10px" src="/BirdSO/ESPics/JacobGianan.jpg">
 
 <h4>Jacob Gianan - Event Supervisor - Bird ID: Emperor Penguin</h4> 
-Hi, I'm Jacob Gianan, a senior co-captain from Camas High School in Camas, Washington ('21). I have competed in Science Olympiad since 5th grade and my favorite events are Wright Stuff and Helicopters. In my free time I enjoy building 3d printers, indoor free flight, and listening to Blackpink.
+Hi, I'm Jacob Gianan, a senior from Camas High School in Camas, Washington ('21). I have competed in Science Olympiad since 5th grade and my favorite events are Wright Stuff and Helicopters. In my free time I enjoy building 3d printers, indoor free flight, and listening to Blackpink.
 
 <br>
 
