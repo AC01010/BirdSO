@@ -278,7 +278,7 @@ Hi! I’m Caleb Chiang, Mission San Jose High School Science Olympiad’s senior
 
 <h4>Robert Lee</h4> 
 I am a first year undergraduate student at UCLA pursuing a major in Aerospace Engineering. I've competed in Science Olympiad for 7 years, creating timeless memories and making many lifelong friends along the way. I'm excited to give back to this community that has given me so much.
-
+<p></p>
 <hr>
 </details>
 
