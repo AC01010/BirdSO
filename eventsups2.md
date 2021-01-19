@@ -64,7 +64,7 @@ Currently I am an engineer at Intel Corporation doing research on semiconductor 
 <img align="left" width="160" height="160" style="margin: 10px 10px 10px 10px" src="/BirdSO/ESPics/AndrewZhang.png">
 
 <h4>Andrew Zhang</h4> 
-Hello, my name is Andrew Zhang! I'm a senior (c/o 21) and captain of Syosset High School in New York and have competed since 7th grade. My favorites events are Astronomy, Codebusters, and Fermi Questions but I've also enjoyed participating in Fossils, Material Science, and Invasive Species. In my free time I spend too long playing cryptograms.
+Hello, my name is Andrew Zhang! I'm a senior (c/o 21) and captain of Syosset High School in New York and have competed since 7th grade. My favorites events are Astronomy, Codebusters, and Fermi Questions but I've also enjoyed participating in Fossils, Material Science, and Invasive Species. In my free time I spend long playing cryptograms.
 
 <br>
 
@@ -170,7 +170,7 @@ Hi! I'm Yuchen, and I'm a current junior at Tesla STEM High School. I've compete
 
 <img align="left" width="160" height="160" style="margin: 10px 10px 10px 10px" src="/BirdSO/ESPics/PeterZhu.jpg">
 <h4>Peter Zhu</h4> 
-Hey there! I competed in Science Olympiad at Canyon Crest Academy back in the day, and I'm currently a senior at UC Berkeley studying Mechanical Engineering and EECS (with a data science minor!). I competed for 5 years and have been writing tests all of my college years too at tournaments everywhere for events like GeoMapping, ExpDesign, and some physics events. Some of my favorite events I competed in are Geologic Mapping, Remote Sensing, Wright Stuff, Helicopters, and Experimental Design.
+Hey there! I competed in Science Olympiad at Canyon Crest Academy back in the day, and I'm currently a senior at UC Berkeley studying Mechanical Engineering and EECS (with a data science minor!). I competed for 5 years and have been writing tests all of my college years at tournaments everywhere for events like GeoMapping, ExpDesign, and some physics events. Some of my favorite events I competed in are Geologic Mapping, Remote Sensing, Wright Stuff, Helicopters, and Experimental Design.
 
 <br>
 
