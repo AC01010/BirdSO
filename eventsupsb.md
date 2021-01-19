@@ -122,7 +122,7 @@ Hi! I’m Caleb Chiang, Mission San Jose High School Science Olympiad’s senior
 
 <!--<img align="right" width="160" height="160" style="margin: 10px 10px 10px 10px" src="/BirdSO/ESPics/CalebChiang.png">-->
 
-<h4>Julia Zacharski - Volunteer Grader</h4> 
+<h4>Julia Zacharski - Event Supervisor</h4> 
 
 <br>
 
