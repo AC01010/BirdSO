@@ -5,7 +5,7 @@ layout: default
 
 ## Division C Event Supervisors
 
-[Division B Event Supervisors](https://birdscienceolympiad.github.io/BirdSO/eventsupsb)
+[Division B Event Supervisors](https://birdscienceolympiad.github.io/BirdSO/eventsupsb)e
 
 <h3>Anatomy and Physiology</h3>
 <img align="left" width="160" height="160" style="margin: 10px 10px 10px 10px" src="/BirdSO/ESPics/AngelaGao.jpg">
@@ -44,7 +44,7 @@ Hello! I'm Roland and I'm a Palo Alto Scioly alumnus and 1st Yr. studying bioche
 <img align="left" width="160" height="160" style="margin: 10px 10px 10px 10px" src="/BirdSO/ESPics/LeiJiang.png">
 
 <h4>Lei Jiang - Event Supervisor - Bird ID: Anna's Hummingbird</h4> 
-Currently I am an engineer at Intel Corporation doing research on semiconductor manufacturing and integrated circuits. Trained as Civil and Mechanical Engineer with Ph.D. from University of Michigan, I volunteered over the past five years for Camas High School, Washington. I enjoyed helping out on physical and earth science events and served as proctor/event supervisors at Invitationals and regional competitions. 
+Trained as a Civil and Mechanical Engineer, I work at Intel Corp. focusing on semiconductor processing and integrated circuits. For the past five years I coached some Southwestern Washington schools on physical and earth science events and enjoyed helping out at competitions.
 
 <br>
 
