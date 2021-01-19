@@ -96,6 +96,17 @@ Hi! My name is Sehej Bindra and I study at UC Berkeley. My relevant experiences 
 
 <h3>Detector Building</h3>
   
+<img align="left" width="160" height="160" style="margin: 10px 10px 10px 10px" src="/BirdSO/ESPics/AkhilPaulraj.jpg">
+
+<h4>Akhil Paulraj - Event Supervisor - Bird ID: Red-and-green Macaw</h4> 
+I am a senior at West Windsor-Plainsboro High School North. I have competed in Science Olympiad since 7th grade (Community Middle School, division B). Mousetrap vehicle is one of my favorite Science Olympiad events (2nd MIT 2019) because it is sufficiently complex to inspire creative approaches and it's always fun to see how other competitors approach the same task.
+
+<br>
+
+<!--<img align="right" width="160" height="160" style="margin: 10px 10px 10px 10px" src="/BirdSO/ESPics/YuchenLi.jpg">-->
+
+<h4>Parth Shastri - Event Supervisor</h4> 
+
 <br>
 
 <h3>Digital Structures</h3>
