@@ -13,6 +13,8 @@ layout: default
 <h4>Jonah Xu - Event Supervisor - Bird ID: Black-capped Chickadee</h4> 
 Hello! My name is Jonah Xu and I am a sophomore in duPont Manual High School. I’ve been competing in Science Olympiad since middle school, and my favorite events are Anatomy and Physiology, Microbe Mission, and Designer Genes. In my free time, you can find me browsing the forums or biking outside. 
 
+<br>
+
 <img align="right" width="160" height="160" style="margin: 10px 10px 10px 10px" src="/BirdSO/ESPics/AmberLuo.jpg">
 
 <h4>Amber Luo - Test Writer - Bird ID: Swan</h4> 
@@ -45,7 +47,7 @@ Hi! I'm William Lee, a captain at Mason. I was introduced to Scioly in my freshm
 <img align="left" width="160" height="160" style="margin: 10px 10px 10px 10px" src="/BirdSO/ESPics/AndrewZhang.png">
 
 <h4>Andrew Zhang - Event Supervisor - Bird ID: Barn Owl</h4> 
-Hello, my name is Andrew Zhang! I'm a senior (c/o 21) and captain of Syosset High School in New York and have competed since 7th grade. My favorites events are Astronomy, Codebusters, and Fermi Questions but I've also enjoyed participating in Fossils, Material Science, and Invasive Species. In my free time I spend long playing cryptograms.
+Hello, my name is Andrew Zhang! I'm a senior (c/o 21) and captain of Syosset High School in New York and have competed since 7th grade. My favorites events are Astronomy, Codebusters, and Fermi Questions but I've also enjoyed participating in Fossils, Matel Science, and Invasive Species. In my free time I spend long playing cryptograms.
 
 <br>
 
@@ -82,6 +84,8 @@ Hey guys, I'm Claire and I am very excited to be writing your Crime Busters test
 Hi!! My name is Olivia Tang and I'm a sophomore at West Windsor-Plainsboro High School North. I joined Science Olympiad in 8th grade, and I enjoy competing in biology events (and the sacred event that is meteorology). I also deeply enjoy listening to kpop and drinking bubble tea.
 
 <!--<img align="left" width="160" height="160" style="margin: 10px 10px 10px 10px" src="/BirdSO/ESPics/OliviaTang.jpg">-->
+
+<br>
 
 <h4>Ria Verma - Event Supervisor</h4> 
 
@@ -126,7 +130,7 @@ Hi! I’m Caleb Chiang, Mission San Jose High School Science Olympiad’s senior
 <img align="left" width="160" height="160" style="margin: 10px 10px 10px 10px" src="/BirdSO/ESPics/JaehyunAhn.jpg">
 
 <h4>Jaehyun Ahn - Event Supervisor - Bird ID: Blue Jay</h4> 
-I'm currently a PhD student in the joint bioengineering program between UC Berkeley and UCSF. I've been volunteering with NorCal and SoCal Science Olympiad competitions as a test writer and event supervisor for about 5 1/2 years now for life science related events! 
+Hello everyone! My name is Jaehyun and I am currently a Senior at Orlando Science School. I competed in Science Olympiad for 3 years so far, mostly in chemistry based events. I am excited to help with BirdSO this year!
 
 <br>
 
@@ -141,7 +145,7 @@ My name is Jean Chung, and I am on the Varsity team for Ward Melville Science Ol
 <img align="right" width="160" height="160" style="margin: 10px 10px 10px 10px" src="/BirdSO/ESPics/AyushiKashyap.jpg">
 
 <h4>Ayushi Kashyap - Volunteer Grader - Bird ID: Indigo Bunting</h4> 
-Hi! I'm Yuchen, and I'm a current junior at Tesla STEM High School. I've competed in Scioly ever since sixth grade, and I've mostly stayed loyal to the earth science events throughout these years, so I'm excited to be writing for Dynamic Planet! My all-time favorite event to study for is Earth Science Prediction.
+Hello! I am Ayushi Kashyap, a sophomore from Mission San Jose High School ('23) in Fremont, California. I have done Science Olympiad since 5th grade and my favorite events include Fossils, Ornithology, and Invasive Species. In my free time, I enjoy collecting expensive stationery and saying "as you should," as I should.
 
 <br>
 
@@ -150,7 +154,7 @@ Hi! I'm Yuchen, and I'm a current junior at Tesla STEM High School. I've compete
 <img align="left" width="160" height="160" style="margin: 10px 10px 10px 10px" src="/BirdSO/ESPics/MartinNguyen.jpg">
 
 <h4>Martin Minh Nguyen - Event Supervisor - Bird ID: Northern Mockingbird</h4> 
-Hey there! I competed in Science Olympiad at Canyon Crest Academy back in the day, and I'm currently a senior at UC Berkeley studying Mechanical Engineering and EECS (with a data science minor!). I competed for 5 years and have been writing tests all of my college years at tournaments everywhere for events like GeoMapping, ExpDesign, and some physics events. 
+Hello! My name is Martin Nguyen and I am a sophomore studying computer science at the University of Texas at Austin. I competed in Division C for two years where my favorite events were Codebusters, Game On, and WGYN. Now, I'm a part of ATX Scioly where we help organize tournaments and promote STEM outreach. Some of my favorite hobbies include playing music, TFT, and speed typing. 
 
 <br>
 
@@ -215,9 +219,9 @@ Hey there! My name is Matthew Song, and I'm currently a senior and a captain of 
 
 <br>
 
-<<img align="right" width="160" height="160" style="margin: 10px 10px 10px 10px" src="/BirdSO/ESPics/AllenChang.png">
+<img align="right" width="160" height="160" style="margin: 10px 10px 10px 10px" src="/BirdSO/ESPics/AllenChang.png">
 
-<h4>Allen Chang - Event Supervisor - Bird ID: Golden-crowned Kinglet</h4> 
+<h4>Allen Chang - Volunteer Grader - Bird ID: Golden-crowned Kinglet</h4> 
 Hi, I'm Allen Chang, a junior from West Windsor-Plainsboro High School North ('22). I mainly participate in build events, but I also enjoy events such as Sounds of Music, Codebusters, and Cybersecurity. My hobbies include programming and indoor free flight, and my favorite mechanical pencil is the Pentel Orenz Nero.
 
 <br>
