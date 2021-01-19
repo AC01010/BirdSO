@@ -138,7 +138,7 @@ Hi! I'm Yuchen, and I'm a current junior at Tesla STEM High School. I've compete
 <img align="left" width="160" height="160" style="margin: 10px 10px 10px 10px" src="/BirdSO/ESPics/PeterZhu.jpg">
 
 <h4>Peter Zhu - Event Supervisor - Bird ID: Penguin</h4> 
-Hey there! I competed in Science Olympiad at Canyon Crest Academy back in the day, and I'm currently a senior at UC Berkeley studying Mechanical Engineering and EECS (with a data science minor!). I competed for 5 years and have been writing tests all of my college years at tournaments everywhere for events like GeoMapping, ExpDesign, and some physics events. Some of my favorite events I competed in are Geologic Mapping, Remote Sensing, Wright Stuff, Helicopters, and Experimental Design.
+Hey there! I competed in Science Olympiad at Canyon Crest Academy back in the day, and I'm currently a senior at UC Berkeley studying Mechanical Engineering and EECS (with a data science minor!). I competed for 5 years and have been writing tests all of my college years at tournaments everywhere for events like GeoMapping, ExpDesign, and some physics events. 
 
 <br>
 
