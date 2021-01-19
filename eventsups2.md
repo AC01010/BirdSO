@@ -251,7 +251,7 @@ Hey! I'm Jason Chang, a junior from West Windsor-Plainsboro High School North in
 <h4>Andrew Zhang</h4> 
 Hello, my name is Andrew Zhang! I'm a senior (c/o 21) and captain of Syosset High School in New York and have competed since 7th grade. My favorites events are Astronomy, Codebusters, and Fermi Questions but I've also enjoyed participating in Fossils, Material Science, and Invasive Species. In my free time I spend too long playing cryptograms.
 
-<img align="left" width="120" height="120" style="margin: 10px 10px 10px 10px" src="/BirdSO/ESPics/CalebChiang.png">
+<img align="right" width="120" height="120" style="margin: 10px 10px 10px 10px" src="/BirdSO/ESPics/CalebChiang.png">
 
 <h4>Caleb Chiang</h4> 
 Hi! I’m Caleb Chiang, Mission San Jose High School Science Olympiad’s senior captain. I’ve competed in Science Olympiad since 5th grade; my favorite events are Fermi Questions and Codebusters. Some other events I’ve enjoyed are Sounds of Music and Invasive Species. When I’m not working on Science Olympiad, I’m probably solving Rubik’s Cubes, doing math, or playing clarinet or saxophone.
