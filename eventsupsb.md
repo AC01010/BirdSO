@@ -167,7 +167,7 @@ Hi, I'm Jacob Gianan, a senior co-captain from Camas High School in Camas, Washi
 <br>
 
 <h3>Heredity</h3>
-<img align="left" width="160" height="160" style="margin: 10px 10px 10px 10px" src="/BirdSO/ESPics/GreycenRen.jpg">
+<img align="left" width="160" height="160" style="margin: 10px 10px 10px 10px" src="/BirdSO/ESPics/GreycenRen.png">
 
 <h4>Greycen Ren - Event Supervisor - Bird ID: Tawny-flanked Prinia</h4> 
 Hey everyone! My name is Greycen Ren and I am a junior at Adlai E. Stevenson High School ('22). I've been competing in Science Olympiad since 6th grade and I mainly do biology related events (My favorite is Microbe Mission). I watch Premier League games in my free time, although I also fence and play League of Legends (not very well though). 
