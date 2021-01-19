@@ -3,12 +3,9 @@ title: Event Supervisors 2
 layout: default
 ---
 
-## Event Supervisors 2
-
-Our event supervisors are chosen for their experience in their respective events. The event supervisors list will be released on January 22nd, 2021.
+## Event Supervisors
 
 ## Division C
-
 
 <h3>Anatomy and Physiology</h3>
 <img align="left" width="160" height="160" style="margin: 10px 10px 10px 10px" src="/BirdSO/ESPics/AngelaGao.jpg">
@@ -17,9 +14,6 @@ Our event supervisors are chosen for their experience in their respective events
 I'm Angela and I'm a freshman at MIT planning to study biology and chemistry. I competed in Science Olympiad during my senior year of high school, and my favorite event was Protein Modeling. In my spare time, I enjoy reading, cat photography, and spontaneous nighttime walks.
 
 <br>
-
-
-
 
 <h3>Astronomy</h3>
 <!--<img align="left" width="160" height="160" style="margin: 10px 10px 10px 10px" src="/BirdSO/ESPics/EricMa.png">-->
