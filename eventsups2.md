@@ -7,7 +7,7 @@ layout: default
 
 Our event supervisors are chosen for their experience in their respective events. The event supervisors list will be released on January 22nd, 2021.
 
-### Division C
+## Division C
 
 
 <h3>Anatomy and Physiology</h3>
@@ -59,9 +59,6 @@ Hello! I'm Roland and I'm a Palo Alto Scioly alumnus and 1st Yr. studying bioche
 Currently I am an engineer at Intel Corporation doing research on semiconductor manufacturing and integrated circuits. Trained as Civil and Mechanical Engineer with Ph.D. from University of Michigan, I volunteered over the past five years for Camas High School, Washington. I enjoyed helping out on physical and earth science events and served as proctor/event supervisors at Invitationals and regional competitions. 
 
 <br>
-
-
-
 
 <h3>Codebusters</h3>
 <img align="left" width="160" height="160" style="margin: 10px 10px 10px 10px" src="/BirdSO/ESPics/AndrewZhang.png">
