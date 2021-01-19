@@ -270,9 +270,10 @@ Hey! I'm Jason Chang, a junior from West Windsor-Plainsboro High School North in
 
 <br>
 
-<!--<img align="right" width="160" height="160" style="margin: 10px 10px 10px 10px" src="/BirdSO/ESPics/JeffXie.jpg">-->
+<img align="right" width="160" height="160" style="margin: 10px 10px 10px 10px" src="/BirdSO/ESPics/MiyuYamane.jpg">
 
-<h4>Miyu Yamane - Event Supervisor</h4> 
+<h4>Miyu Yamane - Event Supervisor - Bird ID: Duck</h4> 
+Hi! My name is Miyu and I am in 10th grade at Los Altos High School in CA. Previously, I competed in Div B SciOly at Shady Side Academy Middle School in PA. In Div B I did events such as WIDI, Herpetology, Disease Detectives, and Potions and Poisons. My hobbies include CADing, reading, procrastinating, and complaining about my procrastination.
 
 <br>
 
