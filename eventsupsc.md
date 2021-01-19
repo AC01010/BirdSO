@@ -5,7 +5,7 @@ layout: default
 
 ## Division C Event Supervisors
 
-[Division B Event Supervisors](https://birdscienceolympiad.github.io/BirdSO/eventsupsb)e
+[Division B Event Supervisors](https://birdscienceolympiad.github.io/BirdSO/eventsupsb)
 
 <h3>Anatomy and Physiology</h3>
 <img align="left" width="160" height="160" style="margin: 10px 10px 10px 10px" src="/BirdSO/ESPics/AngelaGao.jpg">
