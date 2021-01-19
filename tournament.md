@@ -26,7 +26,7 @@ Registration will open Tuesday, December 22nd! The tentative cost will be $50/te
 ### Events
 
  - We will hold 22 events, in addition to 4 trial events.
- - Events will follow **state-level** rules.
+ - Events will follow **national-level** rules.
  - Tests will be administered in Pacific Time.
  - Binders and note sheets may be online or printed.
  - Participants may use any method of communication such as video call, voice chat, or the built-in Scilympiad chat.
