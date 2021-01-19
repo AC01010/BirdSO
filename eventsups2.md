@@ -5,7 +5,7 @@ layout: default
 
 ## Event Supervisors
 
-Our event supervisors were chosen by looking purely at competition and test writing experience. They include national event supervisors, experienced test writers, and national medalists.
+Our event supervisors were chosen through competition and event supervising experience. They include national event supervisors, experienced test writers, and national medalists in their respective events.
 
 ## Division C
 
