@@ -153,7 +153,7 @@ Hello! I am Ayushi Kashyap, a sophomore from Mission San Jose High School ('23) 
 
 <img align="left" width="160" height="160" style="margin: 10px 10px 10px 10px" src="/BirdSO/ESPics/MartinNguyen.jpg">
 
-<h4>Martin Minh Nguyen - Event Supervisor - Bird ID: Northern Mockingbird</h4> 
+<h4>Martin Nguyen - Event Supervisor - Bird ID: Northern Mockingbird</h4> 
 Hello! My name is Martin Nguyen and I am a sophomore studying computer science at the University of Texas at Austin. I competed in Division C for two years where my favorite events were Codebusters, Game On, and WGYN. Now, I'm a part of ATX Scioly where we help organize tournaments and promote STEM outreach. Some of my favorite hobbies include playing music, TFT, and speed typing. 
 
 <br>
