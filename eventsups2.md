@@ -11,10 +11,11 @@ Our event supervisors are chosen for their experience in their respective events
 
 <details>
 <summary>Anatomy and Physiology</summary>
-<!--<img align="left" width="160" height="160" style="margin: 10px 10px 10px 10px" src="/BirdSO/ESPics/EricMa.png">-->
+<img align="left" width="160" height="160" style="margin: 10px 10px 10px 10px" src="/BirdSO/ESPics/AngelaGao.jpg">
 
 <h4>Angela Gao</h4> 
-<hr>
+I'm Angela and I'm a freshman at MIT planning to study biology and chemistry. I competed in Science Olympiad during my senior year of high school, and my favorite event was Protein Modeling. In my spare time, I enjoy reading, cat photography, and spontaneous nighttime walks.
+<br>
 </details>
 
 <details>
@@ -22,12 +23,12 @@ Our event supervisors are chosen for their experience in their respective events
 <!--<img align="left" width="160" height="160" style="margin: 10px 10px 10px 10px" src="/BirdSO/ESPics/EricMa.png">-->
 
 <h4>April Cheng</h4> 
-<hr><img align="right" width="160" height="160" style="margin: 10px 10px 10px 10px" src="/BirdSO/ESPics/JeffXie.jpg">
+<br><img align="right" width="160" height="160" style="margin: 10px 10px 10px 10px" src="/BirdSO/ESPics/JeffXie.jpg">
 
 <h4>Jeff Xie</h4> 
 I am currently a graduate student at University of Houston-Clear Lake pursuing a masters in computer science. I did SciOly for 4 years at John P. Stevens High School, mainly in Astronomy and GeoLogic Mapping, and have volunteered through event supervising, test writing, and test grading for 6 years now. 
 <p> </p>
-<hr>
+<br>
 </details>
 
 <details>
@@ -38,11 +39,11 @@ I am currently a graduate student at University of Houston-Clear Lake pursuing a
 Hello! I'm Roland and I'm a Palo Alto Scioly alumnus and 1st Yr. studying biochemistry at the University of Washington. Chem lab has been my favorite (and possibly only event) since joining scioly and chemistry itself has been an integral part of my high school years. Whenever i'm not pretending to know chemistry i'm usually playing spikeball or pretending to know python. (:
 <p></p>
 <p></p>
-<hr>
+<br>
 <!--<img align="right" width="160" height="160" style="margin: 10px 10px 10px 10px" src="/BirdSO/ESPics/JeffXie.jpg">-->
 
 <h4>Dan Ni</h4> 
-<hr>
+<br>
 </details>
 
 <details>
@@ -52,7 +53,7 @@ Hello! I'm Roland and I'm a Palo Alto Scioly alumnus and 1st Yr. studying bioche
 <h4>Lei Jiang</h4> 
 Currently I am an engineer at Intel Corporation doing research on semiconductor manufacturing and integrated circuits. Trained as Civil and Mechanical Engineer with Ph.D. from University of Michigan, I volunteered over the past five years for Camas High School, Washington. I enjoyed helping out on physical and earth science events and served as proctor/event supervisors at Invitationals and regional competitions. 
 <p></p>
-<hr>
+<br>
 </details>
 
 <details>
@@ -65,7 +66,7 @@ Hello, my name is Andrew Zhang! I'm a senior (c/o 21) and captain of Syosset Hig
 <p></p>
 <p></p>
 <p></p>
-<hr>
+<br>
 <img align="right" width="160" height="160" style="margin: 10px 10px 10px 10px" src="/BirdSO/ESPics/WilliamLee.jpg">
 
 <h4>William Lee</h4> 
@@ -76,7 +77,7 @@ Hi! I'm William Lee, a captain at Mason. I was introduced to Scioly in my freshm
 <p></p>
 <p></p>
 <p></p>
-<hr>
+<br>
 </details>
 
 <details>
@@ -89,14 +90,14 @@ Hi, I'm Allen Chang, a junior from West Windsor-Plainsboro High School North ('2
 <p></p>
 <p></p>
 <p></p>
-<hr>
+<br>
 <img align="right" width="160" height="160" style="margin: 10px 10px 10px 10px" src="/BirdSO/ESPics/EricMa.png">
 
 <h4>Eric Ma</h4> 
 My name is Eric Ma, and I am a freshman at UCLA studying studying electrical engineering. I competed in Science Olympiad with Mission San Jose High School for four years in all sorts of events, although my favorites are probably Protein Modeling and Mission Possible. In my free time, you can catch me playing some instrument, taking photos of the sidewalk, and napping to avoid my homework.
 <p></p>
 <p></p>
-<hr>
+<br>
 </details>
 
 <details>
@@ -113,16 +114,16 @@ Hi! My name is Sehej Bindra and I study at UC Berkeley. My relevant experiences 
 <p></p>
 <p></p>
 <p></p>
-<hr>
+<br>
 <!--<img align="right" width="160" height="160" style="margin: 10px 10px 10px 10px" src="/BirdSO/ESPics/JeffXie.jpg">-->
 
 <h4>Yash Gupta</h4> 
-<hr>
+<br>
 </details>
 
 <details>
 <summary>Detector Building</summary>
-<hr>
+<br>
 </details>
 
 <details>
@@ -130,7 +131,7 @@ Hi! My name is Sehej Bindra and I study at UC Berkeley. My relevant experiences 
 <!--<img align="left" width="160" height="160" style="margin: 10px 10px 10px 10px" src="/BirdSO/ESPics/EricMa.png">-->
 
 <h4>George Sun</h4> 
-<hr>
+<br>
 </details>
 
 <details>
@@ -148,7 +149,7 @@ I'm currently a PhD student in the joint bioengineering program between UC Berke
 <p></p>
 <p></p>
 <p></p>
-<hr>
+<br>
 </details>
 
 <details>
@@ -156,7 +157,7 @@ I'm currently a PhD student in the joint bioengineering program between UC Berke
 <!--<img align="left" width="160" height="160" style="margin: 10px 10px 10px 10px" src="/BirdSO/ESPics/EricMa.png">-->
 
 <h4>Vivek Vajipey</h4> 
-<hr>
+<br>
 <img align="right" width="160" height="160" style="margin: 10px 10px 10px 10px" src="/BirdSO/ESPics/YuchenLi.jpg">
 
 <h4>Yuchen Li</h4> 
@@ -165,11 +166,11 @@ Hi! I'm Yuchen, and I'm a current junior at Tesla STEM High School. I've compete
 <p></p>
 <p></p>
 <p></p>
-<hr>
+<br>
 <!--<img align="right" width="160" height="160" style="margin: 10px 10px 10px 10px" src="/BirdSO/ESPics/JeffXie.jpg">-->
 
 <h4>Chloe Cheng</h4> 
-<hr>
+<br>
 </details>
 
 
@@ -179,7 +180,7 @@ Hi! I'm Yuchen, and I'm a current junior at Tesla STEM High School. I've compete
 <img align="left" width="160" height="160" style="margin: 10px 10px 10px 10px" src="/BirdSO/ESPics/PeterZhu.jpg">
 <h4>Peter Zhu</h4> 
 Hey there! I competed in Science Olympiad at Canyon Crest Academy back in the day, and I'm currently a senior at UC Berkeley studying Mechanical Engineering and EECS (with a data science minor!). I competed for 5 years and have been writing tests all of my college years too at tournaments everywhere for events like GeoMapping, ExpDesign, and some physics events. Some of my favorite events I competed in are Geologic Mapping, Remote Sensing, Wright Stuff, Helicopters, and Experimental Design.
-<hr>
+<br>
 </details>
 
 <details>
@@ -189,11 +190,11 @@ Hey there! I competed in Science Olympiad at Canyon Crest Academy back in the da
 <h4>Zoe Goldblum</h4> 
 Hi everyone! My name is Zoe Goldblum and I am a freshman at the Pennsylvania State University studying Immunology and Infectious Disease. I've been involved with Science Olympiad since 2014, and have competed on both the Good Hope Middle School and Cumberland Valley High School teams. I've written tests, mainly bio and chem events, for multiple invitationals, and am one of the Co-Tournament Directors for the SOAPS invitational. 
 <p></p>
-<hr>
+<br>
 <!--<img align="right" width="160" height="160" style="margin: 10px 10px 10px 10px" src="/BirdSO/ESPics/JeffXie.jpg">-->
 
 <h4>Camille Zhang</h4> 
-<hr>
+<br>
 </details>
 
 <details>
@@ -203,11 +204,11 @@ Hi everyone! My name is Zoe Goldblum and I am a freshman at the Pennsylvania Sta
 <h4>Cruz Soto</h4> 
 Hello! I'm Cruz, your self-proclaimed Fossils extraordinaire and first-year at MIT. I competed as part of Edison High School in Fresno, CA. where I especially enjoyed doing Astronomy, Fossils, and Ornithology. While not busy with school, rocket team, managing YosemiteSO, or helping at various invitational events, I am rewatching Clone Wars or plotting a Socialist takeover of the United States. I wish you the best of luck in the competition!
 <p></p>
-<hr>
+<br>
 <!--<img align="right" width="160" height="160" style="margin: 10px 10px 10px 10px" src="/BirdSO/ESPics/JeffXie.jpg">-->
 
 <h4>Jonathan Chen</h4> 
-<hr>
+<br>
 </details>
 
 <details>
@@ -215,7 +216,7 @@ Hello! I'm Cruz, your self-proclaimed Fossils extraordinaire and first-year at M
 <!--<img align="left" width="160" height="160" style="margin: 10px 10px 10px 10px" src="/BirdSO/ESPics/EricMa.png">-->
 
 <h4>Aidan York</h4> 
-<hr>
+<br>
 </details>
 
 <details>
@@ -230,7 +231,7 @@ Hi, I'm Jacob Gianan, a senior co-captain from Cams High School in Camas, Washin
 <p></p>
 <p></p>
 <p></p>
-<hr>
+<br>
 </details>
 
 <details>
@@ -243,14 +244,14 @@ I am a first year undergraduate student at UCLA pursuing a major in Aerospace En
 <p></p>
 <p></p>
 <p></p>
-<hr>
+<br>
 <img align="right" width="160" height="160" style="margin: 10px 10px 10px 10px" src="/BirdSO/ESPics/JessicaShah.jpg">
 
 <h4>Jessica Shah</h4> 
 Hi! I'm Jessica Shah, a sophomore at Duke University and the Events Chair of Duke Science Olympiad. I competed in Science Olympiad with Ed W Clark High School. My favorite events were Towers, Boomilevers, and (sometimes) Mission Possible. Outside of Science Olympiad, I enjoy doodling, reading webtoons, spending time with friends, and attempting to design things for 3D printing!
 <p></p>
 <p></p>
-<hr>
+<br>
 </details>
 
 <details>
@@ -262,11 +263,11 @@ Hi! I’m Sophia Jang, a first year student at the University of Virginia and fo
 <p></p>
 <p></p>
 <p></p>
-<hr>
+<br>
 <!--<img align="right" width="160" height="160" style="margin: 10px 10px 10px 10px" src="/BirdSO/ESPics/JeffXie.jpg">-->
 
 <h4>Bhavna Trehan</h4> 
-<hr>
+<br>
 </details>
 
 <details>
@@ -277,14 +278,14 @@ Hi! I’m Sophia Jang, a first year student at the University of Virginia and fo
 Hello! My name is Megan. I’m a freshman at UC Berkeley studying molecular and cell biology and a graduate from Sunny Hills HS. I’ve competed for 7 years and bounced around all sorts of events, but my favorites were probably Forensics, Experimental Design, and Protein Modeling. When I’m not sleeping, you can catch me reading questionable articles on the internet whilst eating food.
 <p></p>
 <p></p>
-<hr>
+<br>
 <img align="right" width="160" height="160" style="margin: 10px 10px 10px 10px" src="/BirdSO/ESPics/EricMa.png">
 
 <h4>Eric Ma</h4> 
 My name is Eric Ma, and I am a freshman at UCLA studying studying electrical engineering. I competed in Science Olympiad with Mission San Jose High School for four years in all sorts of events, although my favorites are probably Protein Modeling and Mission Possible. In my free time, you can catch me playing some instrument, taking photos of the sidewalk, and napping to avoid my homework.
 <p></p>
 <p></p>
-<hr>
+<br>
 </details>
 
 <details>
@@ -295,7 +296,7 @@ My name is Eric Ma, and I am a freshman at UCLA studying studying electrical eng
 Hi! I’m Caleb Chiang, Mission San Jose High School Science Olympiad’s senior captain. I’ve competed in Science Olympiad since 5th grade; my favorite events are Fermi Questions and Codebusters. Some other events I’ve enjoyed are Sounds of Music and Invasive Species. When I’m not working on Science Olympiad, I’m probably solving Rubik’s Cubes, doing math, or playing clarinet or saxophone.
 <p></p>
 <p></p>
-<hr>
+<br>
 <img align="right" width="160" height="160" style="margin: 10px 10px 10px 10px" src="/BirdSO/ESPics/RuthLu.png">
 
 <h4>Ruth Lu</h4> 
@@ -303,7 +304,7 @@ Hi everyone! I'm Ruth, a high school junior currently attending American High Sc
 <p></p>
 <p></p>
 <p></p>
-<hr>
+<br>
 </details>
 
 <details>
@@ -311,7 +312,7 @@ Hi everyone! I'm Ruth, a high school junior currently attending American High Sc
 <!--<img align="left" width="160" height="160" style="margin: 10px 10px 10px 10px" src="/BirdSO/ESPics/EricMa.png">-->
 
 <h4>Shrayen Patel</h4> 
-<hr>
+<br>
 </details>
 
 <details>
@@ -323,11 +324,11 @@ Hey! I'm Jason Chang, a junior from West Windsor-Plainsboro High School North in
 <p></p>
 <p></p>
 <p></p>
-<hr>
+<br>
 <!--<img align="right" width="160" height="160" style="margin: 10px 10px 10px 10px" src="/BirdSO/ESPics/JeffXie.jpg">-->
 
 <h4>Miyu Yamane</h4> 
-<hr>
+<br>
 </details>
 
 <details>
@@ -339,14 +340,14 @@ Hello, my name is Andrew Zhang! I'm a senior (c/o 21) and captain of Syosset Hig
 <p></p>
 <p></p>
 <p></p>
-<hr>
+<br>
 <img align="right" width="160" height="160" style="margin: 10px 10px 10px 10px" src="/BirdSO/ESPics/CalebChiang.png">
 
 <h4>Caleb Chiang</h4> 
 Hi! I’m Caleb Chiang, Mission San Jose High School Science Olympiad’s senior captain. I’ve competed in Science Olympiad since 5th grade; my favorite events are Fermi Questions and Codebusters. Some other events I’ve enjoyed are Sounds of Music and Invasive Species. When I’m not working on Science Olympiad, I’m probably solving Rubik’s Cubes, doing math, or playing clarinet or saxophone.
 <p></p>
 <p></p>
-<hr>
+<br>
 <img align="left" width="160" height="160" style="margin: 10px 10px 10px 10px" src="/BirdSO/ESPics/RobertLee.jpg">
 
 <h4>Robert Lee</h4> 
@@ -356,7 +357,7 @@ I am a first year undergraduate student at UCLA pursuing a major in Aerospace En
 <p></p>
 <p></p>
 <p></p>
-<hr>
+<br>
 </details>
 
 <details>
@@ -364,7 +365,7 @@ I am a first year undergraduate student at UCLA pursuing a major in Aerospace En
 <!--<img align="left" width="160" height="160" style="margin: 10px 10px 10px 10px" src="/BirdSO/ESPics/EricMa.png">-->
 
 <h4>Arman Ahmad</h4> 
-<hr>
+<br>
 </details>
 
 <details>
@@ -372,7 +373,7 @@ I am a first year undergraduate student at UCLA pursuing a major in Aerospace En
 <!--<img align="left" width="160" height="160" style="margin: 10px 10px 10px 10px" src="/BirdSO/ESPics/EricMa.png">-->
 
 <h4>Dan Ni</h4> 
-<hr>
+<br>
 </details>
 
 
@@ -385,5 +386,5 @@ Hi I'm Nick and I am a senior at Ward Melville High School who is looking to maj
 <p></p>
 <p></p>
 <p></p>
-<hr>
+<br>
 </details>
