@@ -9,8 +9,8 @@ Our event supervisors are chosen for their experience in their respective events
 
 ### Division C
 
-<details>
-<summary>Anatomy and Physiology</summary>
+
+<h3>Anatomy and Physiology</h3>
 <img align="left" width="160" height="160" style="margin: 10px 10px 10px 10px" src="/BirdSO/ESPics/AngelaGao.jpg">
 
 <h4>Angela Gao</h4> 
@@ -18,10 +18,10 @@ I'm Angela and I'm a freshman at MIT planning to study biology and chemistry. I 
 
 <br>
 
-</details>
 
-<details>
-<summary>Astronomy</summary>
+
+
+<h3>Astronomy</h3>
 <!--<img align="left" width="160" height="160" style="margin: 10px 10px 10px 10px" src="/BirdSO/ESPics/EricMa.png">-->
 
 <h4>April Cheng</h4> 
@@ -32,10 +32,10 @@ I am currently a graduate student at University of Houston-Clear Lake pursuing a
 
 <br>
 
-</details>
 
-<details>
-<summary>Chemistry Lab</summary>
+
+
+<h3>Chemistry Lab</h3>
 <img align="left" width="160" height="160" style="margin: 10px 10px 10px 10px" src="/BirdSO/ESPics/RolandHu.jpg">
 
 <h4>Roland Hu</h4> 
@@ -49,10 +49,10 @@ Hello! I'm Roland and I'm a Palo Alto Scioly alumnus and 1st Yr. studying bioche
 
 <br>
 
-</details>
 
-<details>
-<summary>Circuit Lab</summary>
+
+
+<h3>Circuit Lab</h3>
 <img align="left" width="160" height="160" style="margin: 10px 10px 10px 10px" src="/BirdSO/ESPics/LeiJiang.png">
 
 <h4>Lei Jiang</h4> 
@@ -60,10 +60,10 @@ Currently I am an engineer at Intel Corporation doing research on semiconductor 
 
 <br>
 
-</details>
 
-<details>
-<summary>Codebusters</summary>
+
+
+<h3>Codebusters</h3>
 <img align="left" width="160" height="160" style="margin: 10px 10px 10px 10px" src="/BirdSO/ESPics/AndrewZhang.png">
 
 <h4>Andrew Zhang</h4> 
@@ -78,10 +78,10 @@ Hi! I'm William Lee, a captain at Mason. I was introduced to Scioly in my freshm
 
 <br>
 
-</details>
 
-<details>
-<summary>Cybersecurity</summary>
+
+
+<h3>Cybersecurity</h3>
 <img align="left" width="160" height="160" style="margin: 10px 10px 10px 10px" src="/BirdSO/ESPics/AllenChang.png">
 
 <h4>Allen Chang</h4> 
@@ -96,10 +96,10 @@ My name is Eric Ma, and I am a freshman at UCLA studying studying electrical eng
 
 <br>
 
-</details>
 
-<details>
-<summary>Designer Genes</summary>
+
+
+<h3>Designer Genes</h3>
 <img align="left" width="160" height="160" style="margin: 10px 10px 10px 10px" src="/BirdSO/ESPics/SehejBindra.png">
 
 <h4>Sehej Bindra</h4> 
@@ -113,28 +113,28 @@ Hi! My name is Sehej Bindra and I study at UC Berkeley. My relevant experiences 
 
 <br>
 
-</details>
 
-<details>
-<summary>Detector Building</summary>
+
+
+<h3>Detector Building</h3>
   
 <br>
 
-</details>
 
-<details>
-<summary>Digital Structures</summary>
+
+
+<h3>Digital Structures</h3>
 <!--<img align="left" width="160" height="160" style="margin: 10px 10px 10px 10px" src="/BirdSO/ESPics/EricMa.png">-->
 
 <h4>George Sun</h4> 
 
 <br>
 
-</details>
 
-<details>
+
+
   
-<summary>Disease Detectives</summary>
+<h3>Disease Detectives</h3>
 <img align="left" width="160" height="160" style="margin: 10px 10px 10px 10px" src="/BirdSO/ESPics/AmyGuo.png">
 
 <h4>Amy Guo</h4> 
@@ -142,10 +142,10 @@ I'm currently a PhD student in the joint bioengineering program between UC Berke
 
 <br>
 
-</details>
 
-<details>
-<summary>Dynamic Planet</summary>
+
+
+<h3>Dynamic Planet</h3>
 <!--<img align="left" width="160" height="160" style="margin: 10px 10px 10px 10px" src="/BirdSO/ESPics/EricMa.png">-->
 
 <h4>Vivek Vajipey</h4> 
@@ -165,11 +165,11 @@ Hi! I'm Yuchen, and I'm a current junior at Tesla STEM High School. I've compete
 
 <br>
 
-</details>
 
 
-<details>
-<summary>Experiment and Data Analysis</summary>
+
+
+<h3>Experiment and Data Analysis</h3>
 
 <img align="left" width="160" height="160" style="margin: 10px 10px 10px 10px" src="/BirdSO/ESPics/PeterZhu.jpg">
 <h4>Peter Zhu</h4> 
@@ -177,10 +177,10 @@ Hey there! I competed in Science Olympiad at Canyon Crest Academy back in the da
 
 <br>
 
-</details>
 
-<details>
-<summary>Forensics</summary>
+
+
+<h3>Forensics</h3>
 <img align="left" width="160" height="160" style="margin: 10px 10px 10px 10px" src="/BirdSO/ESPics/ZoeGoldblum.jpg">
 
 <h4>Zoe Goldblum</h4> 
@@ -194,10 +194,10 @@ Hi everyone! My name is Zoe Goldblum and I am a freshman at the Pennsylvania Sta
 
 <br>
 
-</details>
 
-<details>
-<summary>Fossils</summary>
+
+
+<h3>Fossils</h3>
 <img align="left" width="160" height="160" style="margin: 10px 10px 10px 10px" src="/BirdSO/ESPics/CruzSoto.jpg">
 
 <h4>Cruz Soto</h4> 
@@ -211,20 +211,20 @@ Hello! I'm Cruz, your self-proclaimed Fossils extraordinaire and first-year at M
 
 <br>
 
-</details>
 
-<details>
-<summary>Geologic Mapping</summary>
+
+
+<h3>Geologic Mapping</h3>
 <!--<img align="left" width="160" height="160" style="margin: 10px 10px 10px 10px" src="/BirdSO/ESPics/EricMa.png">-->
 
 <h4>Aidan York</h4> 
 
 <br>
 
-</details>
 
-<details>
-<summary>Helicopters</summary>
+
+
+<h3>Helicopters</h3>
 <img align="left" width="160" height="160" style="margin: 10px 10px 10px 10px" src="/BirdSO/ESPics/JacobGianan.jpg">
 
 <h4>Jacob Gianan</h4> 
@@ -232,10 +232,10 @@ Hi, I'm Jacob Gianan, a senior co-captain from Cams High School in Camas, Washin
 
 <br>
 
-</details>
 
-<details>
-<summary>Machines</summary>
+
+
+<h3>Machines</h3>
 <img align="left" width="160" height="160" style="margin: 10px 10px 10px 10px" src="/BirdSO/ESPics/RobertLee.jpg">
 
 <h4>Robert Lee</h4> 
@@ -250,10 +250,10 @@ Hi! I'm Jessica Shah, a sophomore at Duke University and the Events Chair of Duk
 
 <br>
 
-</details>
 
-<details>
-<summary>Ornithology</summary>
+
+
+<h3>Ornithology</h3>
 <img align="left" width="160" height="160" style="margin: 10px 10px 10px 10px" src="/BirdSO/ESPics/SophiaJang.png">
 
 <h4>Sophia Jang</h4> 
@@ -267,10 +267,10 @@ Hi! I’m Sophia Jang, a first year student at the University of Virginia and fo
 
 <br>
 
-</details>
 
-<details>
-<summary>Protein Modeling</summary>
+
+
+<h3>Protein Modeling</h3>
 <img align="left" width="160" height="160" style="margin: 10px 10px 10px 10px" src="/BirdSO/ESPics/MeganLuo.jpg">
 
 <h4>Megan Luo</h4> 
@@ -285,10 +285,10 @@ My name is Eric Ma, and I am a freshman at UCLA studying studying electrical eng
 
 <br>
 
-</details>
 
-<details>
-<summary>Sounds of Music</summary>
+
+
+<h3>Sounds of Music</h3>
 <img align="left" width="160" height="160" style="margin: 10px 10px 10px 10px" src="/BirdSO/ESPics/CalebChiang.png">
 
 <h4>Caleb Chiang</h4> 
@@ -303,20 +303,20 @@ Hi everyone! I'm Ruth, a high school junior currently attending American High Sc
 
 <br>
 
-</details>
 
-<details>
-<summary>Water Quality</summary>
+
+
+<h3>Water Quality</h3>
 <!--<img align="left" width="160" height="160" style="margin: 10px 10px 10px 10px" src="/BirdSO/ESPics/EricMa.png">-->
 
 <h4>Shrayen Patel</h4>
 
 <br>
 
-</details>
 
-<details>
-<summary>Write It CAD It</summary>
+
+
+<h3>Write It CAD It</h3>
 <img align="left" width="160" height="160" style="margin: 10px 10px 10px 10px" src="/BirdSO/ESPics/JasonChang.png">
 
 <h4>Jason Chang</h4> 
@@ -330,10 +330,10 @@ Hey! I'm Jason Chang, a junior from West Windsor-Plainsboro High School North in
 
 <br>
 
-</details>
 
-<details>
-<summary>Fermi Questions (T)</summary>
+
+
+<h3>Fermi Questions (T)</h3>
 <img align="left" width="160" height="160" style="margin: 10px 10px 10px 10px" src="/BirdSO/ESPics/AndrewZhang.png">
 
 <h4>Andrew Zhang</h4> 
@@ -355,36 +355,34 @@ I am a first year undergraduate student at UCLA pursuing a major in Aerospace En
 
 <br>
 
-</details>
 
-<details>
-<summary>Gravity Vehicle (T)</summary>
+
+
+<h3>Gravity Vehicle (T)</h3>
 <!--<img align="left" width="160" height="160" style="margin: 10px 10px 10px 10px" src="/BirdSO/ESPics/EricMa.png">-->
 
 <h4>Arman Ahmad</h4> 
 
 <br>
 
-</details>
 
-<details>
-<summary>Science Quiz Bowl (T)</summary>
+
+
+<h3>Science Quiz Bowl (T)</h3>
 <!--<img align="left" width="160" height="160" style="margin: 10px 10px 10px 10px" src="/BirdSO/ESPics/EricMa.png">-->
 
 <h4>Dan Ni</h4> 
 
 <br>
 
-</details>
 
 
-<details>
-<summary>Rocks and Minerals (T)</summary>
+
+
+<h3>Rocks and Minerals (T)</h3>
 <img align="left" width="160" height="160" style="margin: 10px 10px 10px 10px" src="/BirdSO/ESPics/NickSalanitri.jpg">
 
 <h4>Nick Salanitri</h4> 
 Hi I'm Nick and I am a senior at Ward Melville High School who is looking to major in geology. Ive competed in Science Olympiad for 5 years at Paul J. Gelinas and Ward Melville. I specialize in the Rocks and Minerals and Fossils events. I also enjoyed doing the engineering events like PPP, scrambler, and roller coaster.
 
 <br>
-
-</details>
