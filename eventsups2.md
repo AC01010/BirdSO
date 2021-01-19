@@ -210,7 +210,8 @@ Hi! I’m Sophia Jang, a first year student at the University of Virginia and fo
 
 <!--<img align="right" width="160" height="160" style="margin: 10px 10px 10px 10px" src="/BirdSO/ESPics/JeffXie.jpg">-->
 
-<h4>Bhavna Trehan - Event Supervisor - Bird ID: </h4> 
+<h4>Bhavna Trehan - Event Supervisor - Bird ID: American Woodcock</h4> 
+Hello Everyone! My name's Bhavna, and I'm a freshman at California Northstate University pursuing my BS/MD, previously co-captain at Mira Loma High School. I have been a part of Science Olympiad for 7 years! My favorite events include Herpetology, Microbe Mission, Invasives, and of course, Game On Ornithology ;). Forgive me in advance for the excess amount of memes in the Orni test 0w0
 
 <br>
 
