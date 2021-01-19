@@ -127,9 +127,10 @@ Hi! I'm Yuchen, and I'm a current junior at Tesla STEM High School. I've compete
 
 <br>
 
-<!--<img align="right" width="160" height="160" style="margin: 10px 10px 10px 10px" src="/BirdSO/ESPics/JeffXie.jpg">-->
+<img align="left" width="160" height="160" style="margin: 10px 10px 10px 10px" src="/BirdSO/ESPics/ChloeCheng.jpeg">
 
-<h4>Chloe Cheng - Event Supervisor</h4> 
+<h4>Chloe Cheng - Event Supervisor - Bird ID: Black Phoebe</h4> 
+Chloe is a senior at Venice High who enjoys roaming sketchbook pages and scrubby hills (both of which often involve birds). In the past three years of Science Olympiad she has competed in primarily Earth science events as well as Sounds of Music and Ornithology. This year she began writing for invitationals with a squad informally known in the places as the “goons.”
 
 <br>
 
@@ -208,7 +209,7 @@ Hi! I’m Sophia Jang, a first year student at the University of Virginia and fo
 
 <br>
 
-<!--<img align="right" width="160" height="160" style="margin: 10px 10px 10px 10px" src="/BirdSO/ESPics/JeffXie.jpg">-->
+<img align="right" width="160" height="160" style="margin: 10px 10px 10px 10px" src="/BirdSO/ESPics/BhavnaTrehan.jpg">
 
 <h4>Bhavna Trehan - Event Supervisor - Bird ID: American Woodcock</h4> 
 Hello Everyone! My name's Bhavna, and I'm a freshman at California Northstate University pursuing my BS/MD, previously co-captain at Mira Loma High School. I have been a part of Science Olympiad for 7 years! My favorite events include Herpetology, Microbe Mission, Invasives, and of course, Game On Ornithology ;). Forgive me in advance for the excess amount of memes in the Orni test 0w0
