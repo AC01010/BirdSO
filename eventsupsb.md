@@ -58,9 +58,10 @@ Hello, my name is Andrew Zhang! I'm a senior (c/o 21) and captain of Syosset Hig
 <h4>Claire Kim - Event Supervisor - Bird ID: Spotted Owl</h4> 
 Hey guys, I'm Claire and I am very excited to be writing your Crime Busters test for BirdSO this year! I am currently a college student attending The Ohio State University. I only really got into Science Olympiad starting in my junior year of high school, but it rapidly became my most cherished extracurricular and I am very excited to continue being involved.
 
-<!--<img align="left" width="160" height="160" style="margin: 10px 10px 10px 10px" src="/BirdSO/ESPics/ClaireKim.jpg">-->
+<img align="right" width="160" height="160" style="margin: 10px 10px 10px 10px" src="/BirdSO/ESPics/ChristinaKasch.jpg">
 
-<h4>Christina Kasch - Event Supervisor</h4> 
+<h4>Christina Kasch - Event Supervisor - Bird ID: Red-Winged Blackbird</h4> 
+Hey! My name is Christina Kasch, and I’m a senior at Central High School in Springfield, MO. I’ve participated in Science Olympiad for four years now, competing in mostly biology or chemistry focused events. Crime Busters is a super cool event, and I'm excited to give back by writing for BIRDSO. When I'm not working on Science Olympiad, I'm usually hanging out with my cat and watching cooking shows.
 
 <br>
 
