@@ -195,7 +195,7 @@ Hi! I'm a sophomore from Ed W. Clark High School's class of 2023 and this is my 
 <img align="right" width="160" height="160" style="margin: 10px 10px 10px 10px" src="/BirdSO/ESPics/HugoYu.jpg">
 
 <h4>Hugo Yu - Event Supervisor - Bird ID: Turdus chonkius</h4> 
-Hi! I'm Hugo Yu, senior at Blue Valley North High School in Kansas and team captain. My favorite events are primarily physics and earth science events, including Machines and Dynamic Planet, but I'm interested in basically anything that isn't biology. I spend a lot of my time studying history and researching tanks.
+Hi! I'm Hugo Yu, senior and team captain at Blue Valley North High School in Overland Park, Kansas. I really enjoy physics and earth science events, such as Machines and Dynamic Planet, but I'm interested in basically anything that isn't biology. I spend too much of my time studying history and researching tanks :P
 
 <br>
 
