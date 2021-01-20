@@ -16,9 +16,11 @@ I'm Angela and I'm a freshman at MIT planning to study biology and chemistry. I 
 <br>
 
 <h3>Astronomy</h3>
-<!--<img align="left" width="160" height="160" style="margin: 10px 10px 10px 10px" src="/BirdSO/ESPics/EricMa.png">-->
+<img align="left" width="160" height="160" style="margin: 10px 10px 10px 10px" src="/BirdSO/ESPics/AprilCheng.jpg">
 
-<h4>April Cheng - Event Supervisor</h4> 
+<h4>April Cheng - Event Supervisor - Bird ID: Silkie Chicken</h4> 
+Hi! I’m April Cheng, former captain for Canyon Crest Academy and current MIT prefrosh taking a gap year. In high school, I competed in Astronomy and a variety of other events, and was also a member of the USA International Olympiad of Astronomy and Astrophysics team. In my free time, I like playing Valorant, watching anime, and hanging out with my cat.
+
 <br><img align="right" width="160" height="160" style="margin: 10px 10px 10px 10px" src="/BirdSO/ESPics/JeffXie.jpg">
 
 <h4>Jeff Xie - Volunteer Grader - Bird ID: Pigeon</h4> 
