@@ -74,9 +74,11 @@ Aloha! My name is Antonio Velasco and I am a junior at Pearl City High School do
 <br>
 
 <h3>Digital Structures</h3>
-<!--<img align="left" width="160" height="160" style="margin: 10px 10px 10px 10px" src="/BirdSO/ESPics/EricMa.png">-->
 
-<h4>George Sun</h4> 
+<img align="left" width="160" height="160" style="margin: 10px 10px 10px 10px" src="/BirdSO/ESPics/GeorgeSun.png">
+
+<h4>George Sun - Event Supervisor - Bird ID: Cormorants</h4> 
+I competed with Interlake High School, then attended the University of Washington in Seattle where I co-founded a regional tournament (now defunct). I'm currently an administrator for Scioly.org, national Technology & Engineering Rules Committee member, and brain tumor researcher. I'm excited to be supervising Digital Structures—while physically breaking Boomilevers is irreplaceable, this season is a perfect opportunity for introducing computational models that have become especially important for engineering in our digital age.
 
 <br>
 
