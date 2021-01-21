@@ -122,7 +122,8 @@ I competed with Interlake High School, then attended the University of Washingto
 <img align="left" width="180" height="180" style="margin: 10px 10px 10px 10px" src="/BirdSO/ESPics/AmyGuo.png">
 
 <h4>Amy Guo - Event Supervisor - Bird ID: Dodo</h4> 
-I'm currently a PhD student in the joint bioengineering program between UC Berkeley and UCSF. I've been volunteering with NorCal and SoCal Science Olympiad competitions as a test writer and event supervisor for about 5 1/2 years now for life science related events! 
+I'm currently a PhD student in the joint bioengineering program between UC Berkeley and UCSF. I've been volunteering with NorCal and SoCal Science Olympiad competitions as a test writer and event supervisor for about 5 1/2 years now for life science related events!
+<h4> </h4>
 
 <br>
 
