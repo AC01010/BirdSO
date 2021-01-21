@@ -176,9 +176,10 @@ Hello! I'm Cruz, your self-proclaimed Fossils extraordinaire and first-year at M
 
 <br>
 
-<!--<img align="right" width="160" height="160" style="margin: 10px 10px 10px 10px" src="/BirdSO/ESPics/JeffXie.jpg">-->
+<img align="right" width="160" height="160" style="margin: 10px 10px 10px 10px" src="/BirdSO/ESPics/JonathanChen.jpg">
 
-<h4>Jonathan Chen</h4> 
+<h4>Jonathan Chen - Volunteer Grader - Bird ID: Osprey</h4> 
+Hey! I’m Jonathan and I am a junior at UC Santa Barbara studying chemical engineering. I competed in Scioly for three years at San Marino High School (SoCal), where I learned that my favorite events are Herpetology and Thermodynamics. At college, I’ve continued to help plan, test-write, and grade for the annual SB Regional. Outside of lecture, I love rock climbing and playing ultimate frisbee with my friends. 
 
 <br>
 
