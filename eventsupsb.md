@@ -210,7 +210,7 @@ Heyo! My name is Gwennie Liu and I'm a junior at Torrey Pines High School in San
 <img align="right" width="160" height="160" style="margin: 10px 10px 10px 10px" src="/BirdSO/ESPics/TimothyElnitiarta.jpg">
 
 <h4>Timothy Elnitiarta - Event Supervisor - Bird ID: Kakapo</h4> 
-Hi! I am Tim Elnitiarta, a junior at Troy HS in SoCal and one of the current captains. I've been involved in SciOly since the end of 8th grade at Kraemer MS. I was Kraemer's captain during the 2019 season, head coach for 2020, and now I'm a head coach at Sierra Vista MS. I placed 2nd in Meteorology at Nationals 2019, and I hope to inspire other future meteorologists.
+Hi! I am Tim Elnitiarta, a junior at Troy HS in SoCal and one of the current captains. I've been involved in SciOly since the end of 8th grade at Kraemer MS. I was Kraemer's captain during the 2019 season, head coach for 2020, and now I'm a head coach at Sierra Vista MS. I placed 2nd in Meteorology at Nationals 2019, and I hope to inspire other future meteorologists. You will notice that because of this, I don't have free time like the others.
 
 <br>
 
