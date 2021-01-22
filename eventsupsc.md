@@ -31,9 +31,10 @@ Hello! I'm Roland and I'm a Palo Alto Scioly alumnus and 1st Yr. studying bioche
 
 <br>
 
-<!--<img align="right" width="160" height="160" style="margin: 10px 10px 10px 10px" src="/BirdSO/ESPics/JeffXie.jpg">-->
+<img align="right" width="160" height="160" style="margin: 10px 10px 10px 10px" src="/BirdSO/ESPics/DanNi.jpg">
 
-<h4>Dan Ni - Event Supervisor</h4> 
+<h4>Dan Ni - Event Supervisor - Bird ID: Snowy Plover</h4> 
+Hi there! My name is Dan and I'm currently an undergraduate studying Chemistry and Computer Science at Cornell University. I competed in Science Olympiad from 5th through 12th grade and my favorite events were Biophysics, Science Quiz Bowl, and Experimental Design. I am well-known and respected within the community for winning Christmas Conifers at the 2019 Cornell Division D invitational, in addition to being a noted two-time Geologic Mapping state champion.
 
 <br>
 
@@ -303,9 +304,11 @@ Hey guys! I competed in Science Olympiad for 7 years, finishing at Cumberland Va
 <br>
 
 <h3>Science Quiz Bowl (T)</h3>
-<!--<img align="left" width="160" height="160" style="margin: 10px 10px 10px 10px" src="/BirdSO/ESPics/EricMa.png">-->
 
-<h4>Dan Ni - Event Supervisor</h4> 
+<img align="left" width="160" height="160" style="margin: 10px 10px 10px 10px" src="/BirdSO/ESPics/DanNi.jpg">
+
+<h4>Dan Ni - Event Supervisor - Bird ID: Snowy Plover</h4> 
+Hi there! My name is Dan and I'm currently an undergraduate studying Chemistry and Computer Science at Cornell University. I competed in Science Olympiad from 5th through 12th grade and my favorite events were Biophysics, Science Quiz Bowl, and Experimental Design. I am well-known and respected within the community for winning Christmas Conifers at the 2019 Cornell Division D invitational, in addition to being a noted two-time Geologic Mapping state champion.
 
 <br>
 
