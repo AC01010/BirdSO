@@ -127,12 +127,6 @@ Hi! I’m Caleb Chiang, Mission San Jose High School Science Olympiad’s senior
 
 <br>
 
-<!--<img align="right" width="160" height="160" style="margin: 10px 10px 10px 10px" src="/BirdSO/ESPics/CalebChiang.png">-->
-
-<h4>Julia Zacharski - Event Supervisor</h4> 
-
-<br>
-
 <h3>Food Science</h3>
 <img align="left" width="160" height="160" style="margin: 10px 10px 10px 10px" src="/BirdSO/ESPics/JaehyunAhn.jpg">
 
@@ -146,13 +140,6 @@ Hello everyone! My name is Jaehyun and I am currently a Senior at Orlando Scienc
 
 <h4>Jean Chung - Test Writer - Bird ID: Crane</h4> 
 My name is Jean Chung, and I am on the Varsity team for Ward Melville Science Olympiad. My main events are Water Quality, Dynamic Planet, and Fossils. I have been competing in these events for the past three years, and ever since I joined as a freshman, I have won medals at invitationals such as Cornell, UPenn, and LISO, regional and state tournaments, and the 2019 National Science Olympiad Tournament.
-
-<br>
-
-<img align="right" width="160" height="160" style="margin: 10px 10px 10px 10px" src="/BirdSO/ESPics/AyushiKashyap.jpg">
-
-<h4>Ayushi Kashyap - Volunteer Grader - Bird ID: Indigo Bunting</h4> 
-Hello! I am Ayushi Kashyap, a sophomore from Mission San Jose High School ('23) in Fremont, California. I have done Science Olympiad since 5th grade and my favorite events include Fossils, Ornithology, and Invasive Species. In my free time, I enjoy collecting expensive stationery and saying "as you should," as I should.
 
 <br>
 
@@ -227,13 +214,6 @@ Hey there! My name is Matthew Song, and I'm currently a senior and a captain of 
 
 <br>
 
-<img align="right" width="160" height="160" style="margin: 10px 10px 10px 10px" src="/BirdSO/ESPics/AllenChang.png">
-
-<h4>Allen Chang - Volunteer Grader - Bird ID: Golden-crowned Kinglet</h4> 
-Hi, I'm Allen Chang, a junior from West Windsor-Plainsboro High School North ('22). I mainly participate in build events, but I also enjoy events such as Sounds of Music, Codebusters, and Cybersecurity. My hobbies include programming and indoor free flight, and my favorite mechanical pencil is the Pentel Orenz Nero.
-
-<br>
-
 <h3>Ornithology</h3>
 <img align="left" width="160" height="160" style="margin: 10px 10px 10px 10px" src="/BirdSO/ESPics/SophiaJang.png">
 
@@ -276,12 +256,6 @@ Hi! I'm a senior from Ladue Horton Watkins High School in St. Louis, MO. In addi
 
 <h4>Krish Jayarapu - Test Writer - Bird ID: Articuno</h4>
 Hi, I’m Krish Jayarapu, a junior from Carmel High School (‘22). My main events are biology events and the builds. My favorite event is Ornithology. I like bird-watching and playing soccer. I also study bio in my free time.
-
-<br>
-
-<!--<img align="right" width="160" height="160" style="margin: 10px 10px 10px 10px" src="/BirdSO/ESPics/KrishJayarapu.jpg">-->
-
-<h4>Josh Cohen - Volunteer Grader</h4>
 
 <br>
 
@@ -358,5 +332,26 @@ Hi, I'm Pratyoy Biswas, a senior at West Windsor-Plainsboro High School South. I
 
 <h4>Pratyoy Biswas - Event Supervisor - Bird ID: American Dipper</h4> 
 Hi, I'm Pratyoy Biswas, a senior at West Windsor-Plainsboro High School South. I started competing in Science Olympiad in 7th grade. Since then, I have mostly competed in Earth Science events, like Astronomy and Geologic Mapping, though I occasionally get bored and start doing stuff like Protein Modeling. Robbed of the chance to compete in it this year, I am excited to be supervising Rocks and Minerals (and Science Quiz Bowl!) instead. (Also: No, not all of those medals are mine.)
+
+<br>
+
+## Division B Volunteer Graders
+
+<!--<img align="left" width="160" height="160" style="margin: 10px 10px 10px 10px" src="/BirdSO/ESPics/AyushiKashyap.jpg">-->
+
+<h4>Julia Zacharski - Volunteer Grader</h4> 
+
+<br>
+
+<img align="right" width="160" height="160" style="margin: 10px 10px 10px 10px" src="/BirdSO/ESPics/AyushiKashyap.jpg">
+
+<h4>Ayushi Kashyap - Volunteer Grader - Bird ID: Indigo Bunting</h4> 
+Hello! I am Ayushi Kashyap, a sophomore from Mission San Jose High School ('23) in Fremont, California. I have done Science Olympiad since 5th grade and my favorite events include Fossils, Ornithology, and Invasive Species. In my free time, I enjoy collecting expensive stationery and saying "as you should," as I should.
+
+<br>
+
+<!--<img align="right" width="160" height="160" style="margin: 10px 10px 10px 10px" src="/BirdSO/ESPics/KrishJayarapu.jpg">-->
+
+<h4>Josh Cohen - Volunteer Grader</h4>
 
 <br>
