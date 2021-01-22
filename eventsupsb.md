@@ -88,11 +88,10 @@ I competed with Interlake High School, then attended the University of Washingto
 <h4>Olivia Tang - Event Supervisor - Bird ID: Big Bird</h4> 
 Hi!! My name is Olivia Tang and I'm a sophomore at West Windsor-Plainsboro High School North. I joined Science Olympiad in 8th grade, and I enjoy competing in biology events (and the sacred event that is meteorology). I also deeply enjoy listening to kpop and drinking bubble tea.
 
-<!--<img align="left" width="160" height="160" style="margin: 10px 10px 10px 10px" src="/BirdSO/ESPics/OliviaTang.jpg">-->
+<img align="right" width="160" height="160" style="margin: 10px 10px 10px 10px" src="/BirdSO/ESPics/RiaVerma.png">
 
-<br>
-
-<h4>Ria Verma - Event Supervisor</h4> 
+<h4>Ria Verma - Event Supervisor - Bird ID: Wren</h4> 
+Hi! I'm a current junior at West Windsor-Plainsboro HSN, and I've been a part of Science Olympiad for around 5 years, where I compete primarily in biology events such as Anatomy and Physiology, Disease Detectives, and Protein Modeling. I've also participated and won at every competitive level, ranging from regionals to nationals.
 
 <br>
 
