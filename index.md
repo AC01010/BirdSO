@@ -21,3 +21,5 @@ layout: default
 <b>January 5th, 2021</b> We've announced our last two trial events: Science Quiz Bowl (B/C) and Rocks and Minerals (B/C)!
 
 <b>January 16th, 2021</b> Event supervisors and test writers have been contacted. To all volunteers - thank you for volunteering your time to make this competition possible!
+
+<b>January 22nd, 2021</b> Event supervisors and volunteers have been released [here](https://birdscienceolympiad.github.io/BirdSO/eventsups)!
