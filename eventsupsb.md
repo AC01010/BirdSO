@@ -97,9 +97,11 @@ Hi!! My name is Olivia Tang and I'm a sophomore at West Windsor-Plainsboro High 
 <br>
 
 <h3>Dynamic Planet</h3>
-<!--<img align="left" width="160" height="160" style="margin: 10px 10px 10px 10px" src="/BirdSO/ESPics/EricMa.png">-->
+
+<img align="left" width="160" height="160" style="margin: 10px 10px 10px 10px" src="/BirdSO/ESPics/VivekVajipey.jpg">
 
 <h4>Vivek Vajipey - Event Supervisor - Bird ID: Resplendent Quetzal</h4> 
+Sup! I'm Vivek, a senior at West Windsor-Plainsboro High School North. I'm addicted to Earth Science, so I compete in Astronomy, Dynamic Planet, Fossils and GeoLogic Mapping (with a capital L). I'm excited to be supervising Dynamic Planet with my good buddies Yuchen and Chloe, and I hope you enjoy our test!
 
 <br>
 
