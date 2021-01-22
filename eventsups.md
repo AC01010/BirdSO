@@ -5,9 +5,9 @@ layout: default
 
 ## Event Supervisors
 
-<h2 align="center">
+<p align="center">
   <a href=https://birdscienceolympiad.github.io/BirdSO/eventsupsb>Division B Event Supervisors</a>
   <br>
   <br>
   <a href=https://birdscienceolympiad.github.io/BirdSO/eventsupsc>Division C Event Supervisors</a>
-</h2>
+</p>
