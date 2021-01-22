@@ -277,7 +277,7 @@ Hi everyone! I'm Ruth, a high school junior currently attending American High Sc
 <img align="left" width="160" height="160" style="margin: 10px 10px 10px 10px" src="/BirdSO/ESPics/JasonChang.png">
 
 <h4>Jason Chang - Event Supervisor - Bird ID: Ruby-crowned Kinglet</h4> 
-Hey! I'm Jason Chang, a junior from West Windsor-Plainsboro High School North in Plainsboro, New Jersey ('22). Since 6th grade, I have focused on engineering events such as Gravity Vehicle and Boomilever, but also participate in events such as Write It Do It. I'm a mechanical pencil and 3D printing enthusiast.
+Hey! I'm Jason Chang, a junior from West Windsor-Plainsboro High School North in Plainsboro, New Jersey ('22). Since 6th grade, I have focused on engineering events such as Vehicle and Boomilever, but also participate in events such as Write It Do It. I'm a mechanical pencil and 3D printing enthusiast.
 
 <br>
 
@@ -311,9 +311,11 @@ I am a first year undergraduate student at UCLA pursuing a major in Aerospace En
 <br>
 
 <h3>Gravity Vehicle (T)</h3>
-<!--<img align="left" width="160" height="160" style="margin: 10px 10px 10px 10px" src="/BirdSO/ESPics/EricMa.png">-->
 
-<h4>Arman Ahmad - Event Supervisor</h4> 
+<img align="left" width="160" height="160" style="margin: 10px 10px 10px 10px" src="/BirdSO/ESPics/ArmanAhmad.jpg">
+
+<h4>Arman Ahmad - Event Supervisor - Bird ID: Pileated Woodpecker</h4> 
+Hey guys! I competed in Science Olympiad for 7 years, finishing at Cumberland Valley. Now I am an undergraduate at Penn State, majoring in genetics with a minor in statistics. I have always loved build events and am very excited to run Gravity Vehicle at BirdSO this year!
 
 <br>
 
