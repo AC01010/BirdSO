@@ -343,15 +343,18 @@ Hi! I’m Sophia Jang, a first year student at the University of Virginia and fo
 
 <br>
 
-<!--<img align="left" width="160" height="160" style="margin: 10px 10px 10px 10px" src="/BirdSO/ESPics/SophiaJang.png">-->
+<img align="left" width="160" height="160" style="margin: 10px 10px 10px 10px" src="/BirdSO/ESPics/PratyoyBiswas.jpg">
 
-<h4>Pratyoy Biswas - Event Supervisor</h4> 
+<h4>Pratyoy Biswas - Event Supervisor - Bird ID: American Dipper</h4> 
+Hi, I'm Pratyoy Biswas, a senior at West Windsor-Plainsboro High School South. I started competing in Science Olympiad in 7th grade. Since then, I have mostly competed in Earth Science events, like Astronomy and Geologic Mapping, though I occasionally get bored and start doing stuff like Protein Modeling. Robbed of the chance to compete in it this year, I am excited to be supervising Rocks and Minerals (and Science Quiz Bowl!) instead. (Also: No, not all of those medals are mine.)
 
 <br>
 
 <h3>Rocks and Minerals (T)</h3>
-<!--<img align="left" width="160" height="160" style="margin: 10px 10px 10px 10px" src="/BirdSO/ESPics/SophiaJang.png">-->
 
-<h4>Pratyoy Biswas - Event Supervisor</h4> 
+<img align="left" width="160" height="160" style="margin: 10px 10px 10px 10px" src="/BirdSO/ESPics/PratyoyBiswas.jpg">
+
+<h4>Pratyoy Biswas - Event Supervisor - Bird ID: American Dipper</h4> 
+Hi, I'm Pratyoy Biswas, a senior at West Windsor-Plainsboro High School South. I started competing in Science Olympiad in 7th grade. Since then, I have mostly competed in Earth Science events, like Astronomy and Geologic Mapping, though I occasionally get bored and start doing stuff like Protein Modeling. Robbed of the chance to compete in it this year, I am excited to be supervising Rocks and Minerals (and Science Quiz Bowl!) instead. (Also: No, not all of those medals are mine.)
 
 <br>
