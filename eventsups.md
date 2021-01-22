@@ -5,4 +5,5 @@ layout: default
 
 ## Event Supervisors
 
-Our event supervisors are chosen for their experience in their respective events. The event supervisors list will be released here on January 22nd, 2021.
+## [Division B Event Supervisors](https://birdscienceolympiad.github.io/BirdSO/eventsupsb)
+## [Division C Event Supervisors](https://birdscienceolympiad.github.io/BirdSO/eventsupsc)
