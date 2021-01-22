@@ -194,7 +194,7 @@ Hey! I’m Jonathan and I am a junior at UC Santa Barbara studying chemical engi
 <img align="left" width="160" height="160" style="margin: 10px 10px 10px 10px" src="/BirdSO/ESPics/AidanYork.jpg">
 
 <h4>Aidan York - Event Supervisor - Bird ID: Corviknight</h4> 
-Hi! I'm Aidan York, also known as Giantpants, and I'm a first-year student at Haverford College in Pennsylvania! I competed for Kellenberg Memorial High School in New York for 7 years, mainly doing earth science events, so I'm always eager to give back to the community that's given me s much! Otherwise, I enjoy listening to Fall Out Boy, my favorite band ever, playing bass guitar and Nintendo games, and reading deep introspective stories!
+Hi! I'm Aidan York, also known as Giantpants, and I'm a first-year student at Haverford College in Pennsylvania! I competed for Kellenberg Memorial High School in New York for 7 years, mainly doing earth science events, so I'm always eager to give back to the community that's given me so much! Otherwise, I enjoy listening to Fall Out Boy, my favorite band ever, playing bass guitar and Nintendo games, and reading deep introspective stories!
 
 <br>
 
