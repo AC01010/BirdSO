@@ -5,6 +5,7 @@ layout: default
 
 ## Event Supervisors
 
-
-<a href=https://birdscienceolympiad.github.io/BirdSO/eventsupsb><h2 style="text-align: center;">Division B Event Supervisors</h2></a>
-<a href=https://birdscienceolympiad.github.io/BirdSO/eventsupsc><h2 style="text-align: center;">Division C Event Supervisors</h2></a>
+<p align="center">
+  <h2 style="text-align: center;"><a href=https://birdscienceolympiad.github.io/BirdSO/eventsupsb>Division B Event Supervisors</a></h2>
+  <h2 style="text-align: center;"><a href=https://birdscienceolympiad.github.io/BirdSO/eventsupsc>Division C Event Supervisors</a></h2>
+</p>
