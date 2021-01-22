@@ -64,7 +64,7 @@ Hello my name is Andrew Zhang! I'm a senior (c/o 21) and captain of Syosset High
 <img align="right" width="160" height="160" style="margin: 10px 10px 10px 10px" src="/BirdSO/ESPics/JacobGianan.jpg">
 
 #### Jacob Gianan
-Hi, I'm Jacob Gianan, a senior co-captain from Camas High School in Camas, Washington ('21). I have competed in Science Olympiad since 5th grade and my favorite events are Wright Stuff and Helicopters. In my free time I enjoy building 3d printers, indoor free flight, and listening to Blackpink.
+Hi, I'm Jacob Gianan, a senior from Camas High School in Camas, Washington ('21). I have competed in Science Olympiad since 5th grade and my favorite events are Wright Stuff and Helicopters. In my free time I enjoy building 3d printers, indoor free flight, and listening to Blackpink.
 
 <br>
 
