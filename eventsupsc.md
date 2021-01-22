@@ -314,6 +314,8 @@ Hey guys! I competed in Science Olympiad for 7 years, finishing at Cumberland Va
 
 <h4>Nick Salanitri - Event Supervisor - Bird ID: Owl</h4> 
 Hi I'm Nick and I am a senior at Ward Melville High School who is looking to major in geology. Ive competed in Science Olympiad for 5 years at Paul J. Gelinas and Ward Melville. I specialize in the Rocks and Minerals and Fossils events. I also enjoyed doing the engineering events like PPP, scrambler, and roller coaster.
+
+<br>
 <br>
 
 ## Division C Volunteer Graders
