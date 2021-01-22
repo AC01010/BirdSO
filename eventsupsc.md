@@ -21,11 +21,6 @@ I'm Angela and I'm a freshman at MIT planning to study biology and chemistry. I 
 <h4>April Cheng - Event Supervisor - Bird ID: Silkie Chicken</h4> 
 Hi! I’m April Cheng, former captain for Canyon Crest Academy and current MIT prefrosh taking a gap year. In high school, I competed in Astronomy and a variety of other events, and was also a member of the USA International Olympiad of Astronomy and Astrophysics team. In my free time, I like playing Valorant, watching anime, and hanging out with my cat.
 
-<br><img align="right" width="160" height="160" style="margin: 10px 10px 10px 10px" src="/BirdSO/ESPics/JeffXie.jpg">
-
-<h4>Jeff Xie - Volunteer Grader - Bird ID: Pigeon</h4> 
-I am currently a graduate student at University of Houston-Clear Lake pursuing a masters in computer science. I did SciOly for 4 years at John P. Stevens High School, mainly in Astronomy and GeoLogic Mapping, and have volunteered through event supervising, test writing, and test grading for 6 years now. 
-
 <br>
 
 <h3>Chemistry Lab</h3>
@@ -182,12 +177,7 @@ Hello! I'm Cruz, your self-proclaimed Fossils extraordinaire and first-year at M
 
 <br>
 
-<img align="right" width="160" height="160" style="margin: 10px 10px 10px 10px" src="/BirdSO/ESPics/JonathanChen.jpg">
 
-<h4>Jonathan Chen - Volunteer Grader - Bird ID: Osprey</h4> 
-Hey! I’m Jonathan and I am a junior at UC Santa Barbara studying chemical engineering. I competed in Scioly for three years at San Marino High School (SoCal), where I learned that my favorite events are Herpetology and Thermodynamics. At college, I’ve continued to help plan, test-write, and grade for the annual SB Regional. Outside of lecture, I love rock climbing and playing ultimate frisbee with my friends. 
-
-<br>
 
 <h3>Geologic Mapping</h3>
 
@@ -211,13 +201,6 @@ Hi, I'm Jacob Gianan, a senior from Camas High School in Camas, Washington ('21)
 
 <h4>Robert Lee - Event Supervisor - Bird ID: Splendid Fairywren</h4> 
 I am a first year undergraduate student at UCLA pursuing a major in Aerospace Engineering. I've competed in Science Olympiad for 7 years, creating timeless memories and making many lifelong friends along the way. I'm excited to give back to this community that has given me so much.
-
-<br>
-
-<img align="right" width="160" height="160" style="margin: 10px 10px 10px 10px" src="/BirdSO/ESPics/JessicaShah.jpg">
-
-<h4>Jessica Shah - Volunteer Grader - Bird ID: Penguin</h4> 
-Hi! I'm Jessica Shah, a sophomore at Duke University and the Events Chair of Duke Science Olympiad. I competed in Science Olympiad with Ed W Clark High School. My favorite events were Towers, Boomilevers, and (sometimes) Mission Possible. Outside of Science Olympiad, I enjoy doodling, reading webtoons, spending time with friends, and attempting to design things for 3D printing!
 
 <br>
 
@@ -331,4 +314,27 @@ Hey guys! I competed in Science Olympiad for 7 years, finishing at Cumberland Va
 
 <h4>Nick Salanitri - Event Supervisor - Bird ID: Owl</h4> 
 Hi I'm Nick and I am a senior at Ward Melville High School who is looking to major in geology. Ive competed in Science Olympiad for 5 years at Paul J. Gelinas and Ward Melville. I specialize in the Rocks and Minerals and Fossils events. I also enjoyed doing the engineering events like PPP, scrambler, and roller coaster.
+<br>
+
+##Division C Volunteer Graders
+
+<img align="left" width="160" height="160" style="margin: 10px 10px 10px 10px" src="/BirdSO/ESPics/JeffXie.jpg">
+
+<h4>Jeff Xie - Volunteer Grader - Bird ID: Pigeon</h4> 
+I am currently a graduate student at University of Houston-Clear Lake pursuing a masters in computer science. I did SciOly for 4 years at John P. Stevens High School, mainly in Astronomy and GeoLogic Mapping, and have volunteered through event supervising, test writing, and test grading for 6 years now. 
+
+<br>
+
+<img align="right" width="160" height="160" style="margin: 10px 10px 10px 10px" src="/BirdSO/ESPics/JonathanChen.jpg">
+
+<h4>Jonathan Chen - Volunteer Grader - Bird ID: Osprey</h4> 
+Hey! I’m Jonathan and I am a junior at UC Santa Barbara studying chemical engineering. I competed in Scioly for three years at San Marino High School (SoCal), where I learned that my favorite events are Herpetology and Thermodynamics. At college, I’ve continued to help plan, test-write, and grade for the annual SB Regional. Outside of lecture, I love rock climbing and playing ultimate frisbee with my friends. 
+
+<br>
+
+<img align="left" width="160" height="160" style="margin: 10px 10px 10px 10px" src="/BirdSO/ESPics/JessicaShah.jpg">
+
+<h4>Jessica Shah - Volunteer Grader - Bird ID: Penguin</h4> 
+Hi! I'm Jessica Shah, a sophomore at Duke University and the Events Chair of Duke Science Olympiad. I competed in Science Olympiad with Ed W Clark High School. My favorite events were Towers, Boomilevers, and (sometimes) Mission Possible. Outside of Science Olympiad, I enjoy doodling, reading webtoons, spending time with friends, and attempting to design things for 3D printing!
+
 <br>
