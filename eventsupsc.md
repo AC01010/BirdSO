@@ -84,9 +84,10 @@ Hi! My name is Sehej Bindra and I study at UC Berkeley. My relevant experiences 
 
 <br>
 
-<!--<img align="right" width="160" height="160" style="margin: 10px 10px 10px 10px" src="/BirdSO/ESPics/JeffXie.jpg">-->
+<img align="right" width="160" height="160" style="margin: 10px 10px 10px 10px" src="/BirdSO/ESPics/YashGupta">
 
-<h4>Yash Gupta - Test Writer</h4> 
+<h4>Yash Gupta - Test Writer - Bird ID: Chuck</h4> 
+Hi! I'm a sophomore at UIUC studying Computer Science and Math. I've participated in Science Olympiad ever since 6th grade and have enjoyed being able to learn more about various aspects of science in a team-based setting. My favorite events in high school were Anatomy, Designer Genes and Protein Modeling.
 
 <br>
 
