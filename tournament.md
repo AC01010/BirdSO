@@ -40,7 +40,7 @@ All trial event rules will be released by mid-January.
 ### Awards
 The awards ceremony will be held on **March 20th, 2021** via a Youtube Livestream. Depending on team participation, medals and trophies will be given to approximately 10% of the number of teams competing. Medals and trophies will be mailed to each school after the tournament.
 
-### Fee Waiter
+### Fee Waiver
 If you find yourself in a position that your team is unable to participate due to the registration cost, please fill out this [fee waiver form](https://forms.gle/WNXwviZeShSrkMsWA). 
 
 ### Sponsor Us!
