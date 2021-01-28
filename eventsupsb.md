@@ -338,21 +338,10 @@ Hi, I'm Pratyoy Biswas, a senior at West Windsor-Plainsboro High School South. I
 
 ## Division B Volunteer Graders
 
-<!--<img align="left" width="160" height="160" style="margin: 10px 10px 10px 10px" src="/BirdSO/ESPics/AyushiKashyap.jpg">-->
-
-<h4>Julia Zacharski - Volunteer Grader</h4> 
-
-<br>
-
-<img align="right" width="160" height="160" style="margin: 10px 10px 10px 10px" src="/BirdSO/ESPics/AyushiKashyap.jpg">
+<img align="left" width="160" height="160" style="margin: 10px 10px 10px 10px" src="/BirdSO/ESPics/AyushiKashyap.jpg">
 
 <h4>Ayushi Kashyap - Volunteer Grader - Bird ID: Indigo Bunting</h4> 
 Hello! I am Ayushi Kashyap, a sophomore from Mission San Jose High School ('23) in Fremont, California. I have done Science Olympiad since 5th grade and my favorite events include Fossils, Ornithology, and Invasive Species. In my free time, I enjoy collecting expensive stationery and saying "as you should," as I should.
 
 <br>
-
-<!--<img align="right" width="160" height="160" style="margin: 10px 10px 10px 10px" src="/BirdSO/ESPics/KrishJayarapu.jpg">-->
-
-<h4>Josh Cohen - Volunteer Grader</h4>
-
 <br>
