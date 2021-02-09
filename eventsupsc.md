@@ -221,6 +221,13 @@ Hello Everyone! My name's Bhavna, and I'm a freshman at California Northstate Un
 
 <br>
 
+<img align="left" width="160" height="160" style="margin: 10px 10px 10px 10px" src="/BirdSO/ESPics/AlisaZhang.jpg">
+
+<h4>Alisa Zhang - Event Supervisor - Bird ID: American Woodblock</h4> 
+Hello! I'm Alisa, a first-year bioengineering and computer science major at Pitt. I've done Science Olympiad for 6 years as a team member and captain at Mason, where my favorite events were (and still are) ID events. In my free time, I like to bake, craft (all things Pinterest), and design. I promise to do my best at hand-grading every fill in the blank and looking forward to writing at BirdSO!
+
+<br>
+
 <h3>Protein Modeling</h3>
 <img align="left" width="160" height="160" style="margin: 10px 10px 10px 10px" src="/BirdSO/ESPics/MeganLuo.jpg">
 
