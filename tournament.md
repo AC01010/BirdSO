@@ -25,7 +25,7 @@ Registration will open Tuesday, December 22nd! The tentative cost will be $50/te
 
 ### Events
 
- - We will hold 22 events, in addition to 4 trial events.
+ - We will hold 21 events, in addition to 5 trial events.
  - Events will follow **national-level** rules.
  - Tests will be administered in Pacific Time.
  - Binders and note sheets may be online or printed.
@@ -35,7 +35,8 @@ Registration will open Tuesday, December 22nd! The tentative cost will be $50/te
  - No-shows will result in n+1 points. DQs as a result of cheating will result in n+2 points.
  
 ### Trial Events
-All trial event rules will be released by mid-January.
+All trial event rules have been released and may be found in the events and modifications document. The BirdSO **Events and Modifications** document may be found [here for B](https://docs.google.com/document/d/1QqWLnMG5WXVB0oxa3tN7P9bjPnjYXhhZ2y7HQzpXgsg/edit
+) and [here for C](https://docs.google.com/document/d/1Hop9k_SV6-a5Tqf-mxvSxoffQOERmXBgHzofwHkL2Zk/edit?usp=sharing).
  
 ### Awards
 The awards ceremony will be held on **March 20th, 2021** via a Youtube Livestream. Depending on team participation, medals and trophies will be given to approximately 10% of the number of teams competing. Medals and trophies will be mailed to each school after the tournament.
