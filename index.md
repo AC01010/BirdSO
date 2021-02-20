@@ -25,3 +25,9 @@ layout: default
 <b>January 22nd, 2021:</b> Event supervisors and volunteers have been released [here](https://birdscienceolympiad.github.io/BirdSO/eventsups)!
 
 <b>February 8th, 2021:</b> We have released a fee waiver application, for teams that may not be able to attend due to the registration costs. You can find out more at the tournament page, found [here](https://birdscienceolympiad.github.io/BirdSO/tournament).
+
+<b>February 14th, 2021:</b> Coach Update #2 has been sent out [here](https://docs.google.com/document/d/1-Xh9DhxO06UUcMBV3x1cKrkRnLtZBbwXNCIDazhQF_k/edit)!
+
+<b>February 17th, 2021:</b> Coach Update #3 has been sent out [here](https://docs.google.com/document/d/1-Xh9DhxO06UUcMBV3x1cKrkRnLtZBbwXNCIDazhQF_k/edit)!
+
+<b>February 18th, 2021:</b> Coach Update #4 has been sent out [here](https://docs.google.com/document/d/1-Xh9DhxO06UUcMBV3x1cKrkRnLtZBbwXNCIDazhQF_k/edit)!
