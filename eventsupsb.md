@@ -161,6 +161,13 @@ Hi, I'm Jacob Gianan, a senior from Camas High School in Camas, Washington ('21)
 
 <br>
 
+<img align="right" width="160" height="160" style="margin: 10px 10px 10px 10px" src="/BirdSO/ESPics/AndrewWelter.png">
+
+<h4>Andrew Welter - Event Supervisor - Bird ID: Puffin</h4> 
+Hi! I'm a senior at Bayard Rustin High School and have been competing in Science Olympiad for over 5 years now. I mostly work on flying events (Wright Stuff!), but I also enjoy events like Astronomy and Sounds of Music. I'm a very active member of the indoor free flight community and enjoy working with aeromodels called F1Ds. 
+
+<br>
+
 <h3>Heredity</h3>
 <img align="left" width="160" height="160" style="margin: 10px 10px 10px 10px" src="/BirdSO/ESPics/GreycenRen.png">
 
