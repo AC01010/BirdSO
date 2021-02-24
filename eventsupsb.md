@@ -351,4 +351,16 @@ Hi, I'm Pratyoy Biswas, a senior at West Windsor-Plainsboro High School South. I
 Hello! I am Ayushi Kashyap, a sophomore from Mission San Jose High School ('23) in Fremont, California. I have done Science Olympiad since 5th grade and my favorite events include Fossils, Ornithology, and Invasive Species. In my free time, I enjoy collecting expensive stationery and saying "as you should," as I should.
 
 <br>
+
+<img align="right" width="160" height="160" style="margin: 10px 10px 10px 10px" src="/BirdSO/ESPics/BenjaminEhlert.png">
+
+<h4>Ben Ehlert - Volunteer Grader - Bird ID: Ichthyornis</h4> 
+I am a current competitor and senior captain at Menomonie High School (WI), and have been competing in Science Olympiad for 5 years. I have competed in, or are competing in Fossils, Dynamic Planet (ew glaciers), Geologic Mapping, Water Quality, Astronomy, Rocks and Minerals, and Herpetology. I have also begun to write tests this year as I transition out of competing. I spend way too much time browsing the forums and discord.....
+<br>
+
+<img align="left" width="160" height="160" style="margin: 10px 10px 10px 10px" src="/BirdSO/ESPics/CrystalZhu.jpg">
+
+<h4>Crystal Zhu - Volunteer Grader - Bird ID: Gyrfalcon</h4> 
+Hey there! I'm Crystal Zhu, a senior at Mission San Jose High School in Fremont, California ('21). I joined Science Olympiad in my junior year. I mainly focus on inquiry events, and my favorite event is Codebusters, but I also enjoy Ornithology, as I am a huge bird nerd. In my free time, I love birdwatching and drawing.
+
 <br>
