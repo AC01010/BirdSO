@@ -198,6 +198,13 @@ Hi, I'm Jacob Gianan, a senior from Camas High School in Camas, Washington ('21)
 
 <br>
 
+<img align="right" width="160" height="160" style="margin: 10px 10px 10px 10px" src="/BirdSO/ESPics/AndrewWelter.png">
+
+<h4>Andrew Welter - Event Supervisor - Bird ID: Puffin</h4> 
+Hi! I'm a senior at Bayard Rustin High School and have been competing in Science Olympiad for over 5 years now. I mostly work on flying events (Wright Stuff!), but I also enjoy events like Astronomy and Sounds of Music. I'm a very active member of the indoor free flight community and enjoy working with aeromodels called F1Ds. 
+
+<br>
+
 <h3>Machines</h3>
 <img align="left" width="160" height="160" style="margin: 10px 10px 10px 10px" src="/BirdSO/ESPics/RobertLee.jpg">
 
@@ -351,5 +358,46 @@ Hey! I’m Jonathan and I am a junior at UC Santa Barbara studying chemical engi
 
 <h4>Jessica Shah - Volunteer Grader - Bird ID: Penguin</h4> 
 Hi! I'm Jessica Shah, a sophomore at Duke University and the Events Chair of Duke Science Olympiad. I competed in Science Olympiad with Ed W Clark High School. My favorite events were Towers, Boomilevers, and (sometimes) Mission Possible. Outside of Science Olympiad, I enjoy doodling, reading webtoons, spending time with friends, and attempting to design things for 3D printing!
+
+<br>
+
+<!--<img align="right" width="160" height="160" style="margin: 10px 10px 10px 10px" src="/BirdSO/ESPics/AndrewZhang.png">-->
+
+<h4>Anna Liu - Volunteer Grader - Bird ID: Scissor-tailed Flycatcher</h4> 
+Hihihihihi! I'm Anna, a sophomore from Rancho Bernardo High School and this is my fifth year in Science Olympiad. My favorite event is Codebusters, but I really love Rocks and Minerals too. I've also enjoyed Chemistry Lab and Write It Do It. In my free time, I play piano and laugh at how I'm still trash at cryptograms.
+
+<br>
+
+<img align="left" width="160" height="160" style="margin: 10px 10px 10px 10px" src="/BirdSO/ESPics/VincentFong.jpg">
+
+<h4>Vincent Fong - Volunteer Grader - Bird ID: Toco Toucan</h4>
+Hello! My name is Vincent Fong. I’m currently a freshman at Cornell University, and a graduate from Stuyvesant High School. In my four years of Science Olympiad, I varied between builds and inquiry events; my favorite events were Codebusters and Sounds of Music. In my spare time, you can catch me speedrunning Minecraft and doing quizzes on Sporcle.
+
+<br>
+
+<img align="right" width="160" height="160" style="margin: 10px 10px 10px 10px" src="/BirdSO/ESPics/ArvynDe.png">
+
+<h4>Arvyn De - Volunteer Grader - Bird ID: Snowy Owl</h4>
+Hey! I'm Arvyn De, a junior at West Windsor-Plainsboro High School North. I have been competing in Science Olympiad since 7th grade on the Community Middle School team and do mainly physics events such as Machines, Circuit lab, and Hovercraft.  I also compete in the best Science Olympiad event, Astronomy. In my free time, I enjoy watching Kurzgesagt videos.
+<br>
+
+<img align="left" width="160" height="160" style="margin: 10px 10px 10px 10px" src="/BirdSO/ESPics/AyushiKashyap.jpg">
+
+<h4>Ayushi Kashyap - Volunteer Grader - Bird ID: Indigo Bunting</h4> 
+Hello! I am Ayushi Kashyap, a sophomore from Mission San Jose High School ('23) in Fremont, California. I have done Science Olympiad since 5th grade and my favorite events include Fossils, Ornithology, and Invasive Species. In my free time, I enjoy collecting expensive stationery and saying "as you should," as I should.
+
+<br>
+
+<img align="right" width="160" height="160" style="margin: 10px 10px 10px 10px" src="/BirdSO/ESPics/CrystalZhu.jpg">
+
+<h4>Crystal Zhu - Volunteer Grader - Bird ID: Gyrfalcon</h4> 
+Hey there! I'm Crystal Zhu, a senior at Mission San Jose High School in Fremont, California ('21). I joined Science Olympiad in my junior year. I mainly focus on inquiry events, and my favorite event is Codebusters, but I also enjoy Ornithology, as I am a huge bird nerd. In my free time, I love birdwatching and drawing.
+
+<br>
+
+<img align="left" width="160" height="160" style="margin: 10px 10px 10px 10px" src="/BirdSO/ESPics/KaylaYao.JPG">
+
+<h4>Kayla Yao - Volunteer Grader - Bird ID: Moltres</h4> 
+Hi! I'm Kayla, a junior currently attending Ed W. Clark High School in Las Vegas, Nevada. This is my fourth year competing in Science Olympiad. I mainly focus on biology events such as Ornithology, Designer Genes, and Anatomy, but I've also enjoyed competing in inquiry events such as Experimental Design and Fast Facts. In my free time, I spend way too much time listening to Kpop and playing Pokemon Go.
 
 <br>
