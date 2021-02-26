@@ -401,3 +401,23 @@ Hey there! I'm Crystal Zhu, a senior at Mission San Jose High School in Fremont,
 Hi! I'm Kayla, a junior currently attending Ed W. Clark High School in Las Vegas, Nevada. This is my fourth year competing in Science Olympiad. I mainly focus on biology events such as Ornithology, Designer Genes, and Anatomy, but I've also enjoyed competing in inquiry events such as Experimental Design and Fast Facts. In my free time, I spend way too much time listening to Kpop and playing Pokemon Go.
 
 <br>
+
+<img align="right" width="160" height="160" style="margin: 10px 10px 10px 10px" src="/BirdSO/ESPics/PraneethKota.png">
+
+<h4>Praneeth Kota - Volunteer Grader - Bird ID: Kingfisher</h4> 
+Hi, my name is Praneeth Kota and I'm a senior at Chattahoochee High School. I started competing in Science Olympiad in 7th grade. I've pretty much stuck to bio events, mainly Anatomy, Disease, and Water Quality. In my free time, I hike, swim, and spend too much time on the Internet.
+
+<br>
+
+<img align="left" width="160" height="160" style="margin: 10px 10px 10px 10px" src="/BirdSO/ESPics/LarryXue.jpeg">
+<h4>Larry Xue - Volunteer Grader - Bird ID: American Bittern</h4> 
+Hello! My name is Larry Xue and I am a sophomore at West Windsor Plainsboro High School North. I have been competing in Science Olympiad for 4 years, and my favorite events include Fossils, Rocks and Minerals, and Water Quality. In my free time, I like playing video games and watching Youtube videos.
+
+<br>
+
+
+<img align="right" width="160" height="160" style="margin: 10px 10px 10px 10px" src="/BirdSO/ESPics/HarryYang.png">
+<h4>Harry Yang - Volunteer Grader - Bird ID: Eastern Bluebird</h4> 
+Hi! I'm Harry and I'm currently a freshman at the University of Michigan. I competed in Science Olympiad for 7 years, mostly doing bio events with some earth/space science sprinkled in. I've met so many amazing people and made so many unforgettable memories through Scioly, and I'm excited to be able to give back to the community! In my free time, I enjoy playing flute/piano, napping, and attempting to learn Chinese yoyo.
+
+<br>
