@@ -28,7 +28,7 @@ Registration will open Tuesday, December 22nd! The tentative cost will be $50/te
  - We will hold 21 events, in addition to 5 trial events.
  - Events will follow **national-level** rules.
  - Tests will be administered in Pacific Time.
- - Binders and note sheets may be online or printed.
+ - Binders may be online or printed. Notesheets must be printed and cannot be online. For more information, see our [resource policy](https://docs.google.com/document/d/1dT7ODXFLb_yO18hrRncKJQmfS9WspniTS3ney7iumGw/edit).
  - Participants may use any method of communication such as video call, voice chat, or the built-in Scilympiad chat.
  - Partners may not gather in-person while participating in events.
  - All events are 50 minutes long.
@@ -39,7 +39,7 @@ All trial event rules have been released and may be found in the events and modi
 ) and [here for C](https://docs.google.com/document/d/1Hop9k_SV6-a5Tqf-mxvSxoffQOERmXBgHzofwHkL2Zk/edit?usp=sharing).
  
 ### Awards
-The awards ceremony will be held on **March 20th, 2021** via a Youtube Livestream. Depending on team participation, medals and trophies will be given to approximately 10% of the number of teams competing. Medals and trophies will be mailed to each school after the tournament.
+The awards ceremony will be held on **March 20th, 2021** via a Youtube Livestream. Medals will be given to the top 6 teams for division B and top 12 teams for division C in each event. Trophies will be given to the top 6 teams in division B and top 8 teams in division C. Medals and trophies will be mailed to each school after the tournament.
 
 ### Sponsor Us!
 We are looking for sponsors to help support our competition! If you are interested, contact us at [birdscioly@gmail.com](mailto:birdscioly@gmail.com). Thank you!
