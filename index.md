@@ -31,3 +31,9 @@ layout: default
 <b>February 17th, 2021:</b> Coach Update #3 has been sent out [here](https://docs.google.com/document/d/1-Xh9DhxO06UUcMBV3x1cKrkRnLtZBbwXNCIDazhQF_k/edit)!
 
 <b>February 18th, 2021:</b> Coach Update #4 has been sent out [here](https://docs.google.com/document/d/1-Xh9DhxO06UUcMBV3x1cKrkRnLtZBbwXNCIDazhQF_k/edit)!
+
+<b>February 19th, 2021:</b> Coach Update #5 has been sent out [here](https://docs.google.com/document/d/1-Xh9DhxO06UUcMBV3x1cKrkRnLtZBbwXNCIDazhQF_k/edit)!
+
+<b>February 21st, 2021:</b> Coach Update #6 has been sent out [here](https://docs.google.com/document/d/1-Xh9DhxO06UUcMBV3x1cKrkRnLtZBbwXNCIDazhQF_k/edit)!
+
+<b>February 28th, 2021:</b> We've released a logistics document, which can be found [here](https://birdscienceolympiad.github.io/BirdSO/BirdSO_Logistics_1.pdf).
