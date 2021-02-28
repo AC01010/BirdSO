@@ -371,3 +371,10 @@ I am a current competitor and senior captain at Menomonie High School (WI), and 
 Hey there! I'm Crystal Zhu, a senior at Mission San Jose High School in Fremont, California ('21). I joined Science Olympiad in my junior year. I mainly focus on inquiry events, and my favorite event is Codebusters, but I also enjoy Ornithology, as I am a huge bird nerd. In my free time, I love birdwatching and drawing.
 
 <br>
+
+<img align="right" width="160" height="160" style="margin: 10px 10px 10px 10px" src="/BirdSO/ESPics/VictorHesu.png">
+
+<h4>Victor Hesu - Volunteer Grader - Bird ID: Laysan Albatross</h4> 
+Hello! My name is Victor Hesu and I am a junior from The Westminster Schools in Georgia. In the three years I have competed in Science Olympiad, I have done mostly earth science and build events. These events include Dynamic Planet, Fossils, and Geologic Mapping. Outside of Science Olympiad, I spend far too much free time exploring random rabbit holes.
+
+<br>
