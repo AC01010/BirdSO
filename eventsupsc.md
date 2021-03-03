@@ -124,6 +124,20 @@ I'm currently a PhD student in the joint bioengineering program between UC Berke
 
 <br>
 
+<img align="right" width="160" height="160" style="margin: 10px 10px 10px 10px" src="/BirdSO/ESPics/OliviaTang.jpg">
+
+<h4>Olivia Tang - Event Supervisor - Bird ID: Big Bird</h4> 
+Hi!! My name is Olivia Tang and I'm a sophomore at West Windsor-Plainsboro High School North. I joined Science Olympiad in 8th grade, and I enjoy competing in biology events (and the sacred event that is meteorology). I also deeply enjoy listening to kpop and drinking bubble tea.
+
+<br>
+
+<img align="left" width="160" height="160" style="margin: 10px 10px 10px 10px" src="/BirdSO/ESPics/RiaVerma.png">
+
+<h4>Ria Verma - Event Supervisor - Bird ID: Wren</h4> 
+Hi! I'm a current junior at West Windsor-Plainsboro HSN, and I've been a part of Science Olympiad for around 5 years, where I compete primarily in biology events such as Anatomy and Physiology, Disease Detectives, and Protein Modeling. I've also participated and won at every competitive level, ranging from regionals to nationals.
+
+<br>
+
 <h3>Dynamic Planet</h3>
 
 <img align="left" width="160" height="160" style="margin: 10px 10px 10px 10px" src="/BirdSO/ESPics/VivekVajipey.jpg">
@@ -271,6 +285,13 @@ Hi everyone! I'm Ruth, a high school junior currently attending American High Sc
 
 <h4>Shrayen Patel - Event Supervisor - Bird ID: Peregrine</h4>
 Hey, I'm Shrayen! I was a four-year veteran of the William P. Clements HS Junior Engineering & Technical Society. I did Water Quality for two seasons, competing at MIT and state among other invitationals. I love ecology, nature, lakes, oceans, marine life, etc. and this event ties them all together in one. I'm also a HUGE aviation enthusiast! Currently, I'm an ATX SciOly coordinator & biology major focused on a pre-med track while studying at UT Austin!
+
+<br>
+
+<img align="right" width="160" height="160" style="margin: 10px 10px 10px 10px" src="/BirdSO/ESPics/KrishJayarapu.jpg">
+
+<h4>Krish Jayarapu - Test Writer - Bird ID: Articuno</h4>
+Hi, I’m Krish Jayarapu, a junior from Carmel High School (‘22). My main events are biology events and the builds. My favorite event is Ornithology. I like bird-watching and playing soccer. I also study bio in my free time.
 
 <br>
 
