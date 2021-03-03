@@ -280,7 +280,6 @@ Hi everyone! I'm Ruth, a high school junior currently attending American High Sc
 <br>
 
 <h3>Water Quality</h3>
-
 <img align="left" width="160" height="160" style="margin: 10px 10px 10px 10px" src="/BirdSO/ESPics/ShreyenPatel.jpg">
 
 <h4>Shrayen Patel - Event Supervisor - Bird ID: Peregrine</h4>
