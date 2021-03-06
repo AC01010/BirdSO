@@ -280,17 +280,17 @@ Hi everyone! I'm Ruth, a high school junior currently attending American High Sc
 <br>
 
 <h3>Water Quality</h3>
-<img align="left" width="160" height="160" style="margin: 10px 10px 10px 10px" src="/BirdSO/ESPics/ShreyenPatel.jpg">
-
-<h4>Shrayen Patel - Event Supervisor - Bird ID: Peregrine</h4>
-Hey, I'm Shrayen! I was a four-year veteran of the William P. Clements HS Junior Engineering & Technical Society. I did Water Quality for two seasons, competing at MIT and state among other invitationals. I love ecology, nature, lakes, oceans, marine life, etc. and this event ties them all together in one. I'm also a HUGE aviation enthusiast! Currently, I'm an ATX SciOly coordinator & biology major focused on a pre-med track while studying at UT Austin!
-
-<br>
-
-<img align="right" width="160" height="160" style="margin: 10px 10px 10px 10px" src="/BirdSO/ESPics/KrishJayarapu.jpg">
+<img align="left" width="160" height="160" style="margin: 10px 10px 10px 10px" src="/BirdSO/ESPics/KrishJayarapu.jpg">
 
 <h4>Krish Jayarapu - Test Writer - Bird ID: Articuno</h4>
 Hi, I’m Krish Jayarapu, a junior from Carmel High School (‘22). My main events are biology events and the builds. My favorite event is Ornithology. I like bird-watching and playing soccer. I also study bio in my free time.
+
+<br>
+
+<img align="right" width="160" height="160" style="margin: 10px 10px 10px 10px" src="/BirdSO/ESPics/ShreyenPatel.jpg">
+
+<h4>Shrayen Patel - Event Supervisor - Bird ID: Peregrine</h4>
+Hey, I'm Shrayen! I was a four-year veteran of the William P. Clements HS Junior Engineering & Technical Society. I did Water Quality for two seasons, competing at MIT and state among other invitationals. I love ecology, nature, lakes, oceans, marine life, etc. and this event ties them all together in one. I'm also a HUGE aviation enthusiast! Currently, I'm an ATX SciOly coordinator & biology major focused on a pre-med track while studying at UT Austin!
 
 <br>
 
