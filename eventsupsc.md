@@ -101,8 +101,8 @@ I am a senior at West Windsor-Plainsboro High School North. I have competed in S
 <br>
 
 <!--<img align="right" width="160" height="160" style="margin: 10px 10px 10px 10px" src="/BirdSO/ESPics/YuchenLi.jpg">-->
-
-<h4>Parth Shastri - Event Supervisor</h4> 
+<h4>Parth Shastri - Event Supervisor - Bird ID: Osprey</h4> 
+Hello, there! I'm Parth, a senior at West Windsor-Plainsboro High School North, and I have competed in Science Olympiad since 7th grade. If you name a Physics event, I've probably competed in it at some point or another. I'm excited to finally supervise an event, and I hope that you, above all else, have fun!
 
 <br>
 
@@ -435,9 +435,18 @@ Hello! My name is Larry Xue and I am a sophomore at West Windsor Plainsboro High
 
 <br>
 
-
 <img align="right" width="160" height="160" style="margin: 10px 10px 10px 10px" src="/BirdSO/ESPics/HarryYang.png">
 <h4>Harry Yang - Volunteer Grader - Bird ID: Eastern Bluebird</h4> 
 Hi! I'm Harry and I'm currently a freshman at the University of Michigan. I competed in Science Olympiad for 7 years, mostly doing bio events with some earth/space science sprinkled in. I've met so many amazing people and made so many unforgettable memories through Scioly, and I'm excited to be able to give back to the community! In my free time, I enjoy playing flute/piano, napping, and attempting to learn Chinese yoyo.
 
 <br>
+<img align="left" width="160" height="160" style="margin: 10px 10px 10px 10px" src="/BirdSO/ESPics/AnnaLiu.jpg">
+<h4>Harry Yang - Volunteer Grader - Bird ID: Scissor-tailed Flycatcher</h4> 
+Hihihihihi! I'm Anna, a sophomore from Rancho Bernardo High School and this is my fifth year in Science Olympiad. My favorite event is Codebusters, but I really love Rocks and Minerals too. I've also enjoyed Chemistry Lab and Write It Do It. In my free time, I play piano and laugh at how I'm still trash at cryptograms.
+
+<br>
+<img align="right" width="160" height="160" style="margin: 10px 10px 10px 10px" src="/BirdSO/ESPics/AshritChalla.png">
+<h4>Ashrit Challa - Volunteer Grader - Bird ID: Ostrich</h4> 
+Ashrit Challa is a senior at Centerville High School, and has participated in Science Olympiad for the past seven years. He is in the Anatomy and Physiology, Protein Modeling, Designer Genes, and Codebusters events. In his free time, Ashrit likes to bake recipes crafted by the legendary Claire Saffitz and scroll through the Wandavision subreddit.
+
+
