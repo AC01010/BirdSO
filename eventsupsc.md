@@ -441,7 +441,7 @@ Hi! I'm Harry and I'm currently a freshman at the University of Michigan. I comp
 
 <br>
 <img align="left" width="160" height="160" style="margin: 10px 10px 10px 10px" src="/BirdSO/ESPics/AnnaLiu.jpg">
-<h4>Harry Yang - Volunteer Grader - Bird ID: Scissor-tailed Flycatcher</h4> 
+<h4>Anna Liu - Volunteer Grader - Bird ID: Scissor-tailed Flycatcher</h4> 
 Hihihihihi! I'm Anna, a sophomore from Rancho Bernardo High School and this is my fifth year in Science Olympiad. My favorite event is Codebusters, but I really love Rocks and Minerals too. I've also enjoyed Chemistry Lab and Write It Do It. In my free time, I play piano and laugh at how I'm still trash at cryptograms.
 
 <br>
