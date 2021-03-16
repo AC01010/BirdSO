@@ -100,7 +100,7 @@ I am a senior at West Windsor-Plainsboro High School North. I have competed in S
 
 <br>
 
-<!--<img align="right" width="160" height="160" style="margin: 10px 10px 10px 10px" src="/BirdSO/ESPics/YuchenLi.jpg">-->
+<img align="right" width="160" height="160" style="margin: 10px 10px 10px 10px" src="/BirdSO/ESPics/ParthShastri.png">-->
 <h4>Parth Shastri - Event Supervisor - Bird ID: Osprey</h4> 
 Hello, there! I'm Parth, a senior at West Windsor-Plainsboro High School North, and I have competed in Science Olympiad since 7th grade. If you name a Physics event, I've probably competed in it at some point or another. I'm excited to finally supervise an event, and I hope that you, above all else, have fun!
 
