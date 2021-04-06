@@ -98,6 +98,7 @@ Hi, I’m Krish Jayarapu, a junior from Carmel High School (‘22). My main even
 
 <br>
 
+
 <img align="right" width="160" height="160" style="margin: 10px 10px 10px 10px" src="/BirdSO/ESPics/SehejBindra.png">
 
 <h4>Sehej Bindra - Test Writer - Bird ID: Joy from Red Velvet</h4> 
