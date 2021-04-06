@@ -9,31 +9,6 @@ layout: default
   <img width="575" height="274" src="https://cdn.discordapp.com/attachments/788658199455727648/789258589851222016/BirdSOLogoFull2.png">
 </p>
 <p align="center">
-  Registration has begun! Please visit <a href="https://scilympiad.com/birdso">our Scilympiad site</a> to register.
+  Final results for <a href="https://duosmium.org/results/2021-03-07_birdso_invitational_c">Division B</a> and <a href="https://duosmium.org/results/2021-03-07_birdso_invitational_c">Division C</a> have been posted!
 </p>
 
-<h3>Updates</h3>
-
-<b>December 21st, 2020:</b> Registration starts on December 22nd, 2020!
-
-<b>December 22nd, 2020:</b> Registration starts today at 3 PM PT / 6 PM ET! We are hosting 100 teams in both divisions - with a 6 team per school cap for B and 4 for C.        
-
-<b>January 5th, 2021:</b> We've announced our last two trial events: Science Quiz Bowl (B/C) and Rocks and Minerals (B/C)!
-
-<b>January 16th, 2021:</b> Event supervisors and test writers have been contacted. To all volunteers - thank you for volunteering your time to make this competition possible!
-
-<b>January 22nd, 2021:</b> Event supervisors and volunteers have been released [here](https://birdscienceolympiad.github.io/BirdSO/eventsups)!
-
-<b>February 8th, 2021:</b> We have released a fee waiver application, for teams that may not be able to attend due to the registration costs. You can find out more at the tournament page, found [here](https://birdscienceolympiad.github.io/BirdSO/tournament).
-
-<b>February 14th, 2021:</b> Coach Update #2 has been sent out [here](https://docs.google.com/document/d/1-Xh9DhxO06UUcMBV3x1cKrkRnLtZBbwXNCIDazhQF_k/edit)!
-
-<b>February 17th, 2021:</b> Coach Update #3 has been sent out [here](https://docs.google.com/document/d/1-Xh9DhxO06UUcMBV3x1cKrkRnLtZBbwXNCIDazhQF_k/edit)!
-
-<b>February 18th, 2021:</b> Coach Update #4 has been sent out [here](https://docs.google.com/document/d/1-Xh9DhxO06UUcMBV3x1cKrkRnLtZBbwXNCIDazhQF_k/edit)!
-
-<b>February 19th, 2021:</b> Coach Update #5 has been sent out [here](https://docs.google.com/document/d/1-Xh9DhxO06UUcMBV3x1cKrkRnLtZBbwXNCIDazhQF_k/edit)!
-
-<b>February 21st, 2021:</b> Coach Update #6 has been sent out [here](https://docs.google.com/document/d/1-Xh9DhxO06UUcMBV3x1cKrkRnLtZBbwXNCIDazhQF_k/edit)!
-
-<b>February 28th, 2021:</b> We've released a logistics document, which can be found [here](https://birdscienceolympiad.github.io/BirdSO/BirdSO_Logistics_1.pdf).
