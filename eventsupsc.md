@@ -77,14 +77,35 @@ My name is Eric Ma, and I am a freshman at UCLA studying studying electrical eng
 <br>
 
 <h3>Designer Genes</h3>
-<img align="left" width="160" height="160" style="margin: 10px 10px 10px 10px" src="/BirdSO/ESPics/SehejBindra.png">
+<img align="left" width="160" height="160" style="margin: 10px 10px 10px 10px" src="/BirdSO/ESPics/GreycenRen.png">
+
+<h4>Greycen Ren - Event Supervisor - Bird ID: Tawny-flanked Prinia</h4> 
+Hey everyone! My name is Greycen Ren and I am a junior at Adlai E. Stevenson High School ('22). I've been competing in Science Olympiad since 6th grade and I mainly do biology related events (My favorite is Microbe Mission). I watch Premier League games in my free time, although I also fence and play League of Legends (not very well though). 
+
+<br>
+
+<img align="right" width="160" height="160" style="margin: 10px 10px 10px 10px" src="/BirdSO/ESPics/KaylaYao.JPG">
+
+<h4>Kayla Yao - Event Supervisor - Bird ID: Moltres</h4> 
+Hi! I'm Kayla, a junior currently attending Ed W. Clark High School in Las Vegas, Nevada. This is my fourth year competing in Science Olympiad. I mainly focus on biology events such as Ornithology, Designer Genes, and Anatomy, but I've also enjoyed competing in inquiry events such as Experimental Design and Fast Facts. In my free time, I spend way too much time listening to Kpop and playing Pokemon Go.
+
+<br>
+
+<img align="left" width="160" height="160" style="margin: 10px 10px 10px 10px" src="/BirdSO/ESPics/KrishJayarapu.jpg">
+
+<h4>Krish Jayarapu - Test Writer - Bird ID: Articuno</h4>
+Hi, I’m Krish Jayarapu, a junior from Carmel High School (‘22). My main events are biology events and the builds. My favorite event is Ornithology. I like bird-watching and playing soccer. I also study bio in my free time.
+
+<br>
+
+<img align="right" width="160" height="160" style="margin: 10px 10px 10px 10px" src="/BirdSO/ESPics/SehejBindra.png">
 
 <h4>Sehej Bindra - Test Writer - Bird ID: Joy from Red Velvet</h4> 
 Hi! My name is Sehej Bindra and I study at UC Berkeley. My relevant experiences include competing in biology events for WWPN and serving as the 2019 WWPN Ornithology test co-grader. Outside of Science Olympiad, you can catch me outside doing stuff.
 
 <br>
 
-<img align="right" width="160" height="160" style="margin: 10px 10px 10px 10px" src="/BirdSO/ESPics/YashGupta.png">
+<img align="left" width="160" height="160" style="margin: 10px 10px 10px 10px" src="/BirdSO/ESPics/YashGupta.png">
 
 <h4>Yash Gupta - Test Writer - Bird ID: Chuck</h4> 
 Hi! I'm a sophomore at UIUC studying Computer Science and Math. I've participated in Science Olympiad ever since 6th grade and have enjoyed being able to learn more about various aspects of science in a team-based setting. My favorite events in high school were Anatomy, Designer Genes and Protein Modeling.
